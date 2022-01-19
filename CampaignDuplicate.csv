@@ -1,0 +1,1227 @@
+Order date,Product Brand,Product number,Customer ID,Order ID,Supermarket purchased from,Sales Volume, Sales Value
+9/1/2016,Competitor A,701139,9442,R1234623,Supermarket South,1,$34.50 
+9/1/2016,Competitor B,198485,54276,R1235251,Supermarket West,3,$34.20 
+9/1/2016,Competitor B,768644,244012,R1235150,Supermarket West,1,$61.30 
+9/1/2016,Competitor B,369239,300346,R1235378,Supermarket North-East,1,$39.80 
+9/1/2016,Colgate-Palmolive,899488,436689,R1234583,Supermarket North,1,$37.20 
+9/1/2016,Competitor A,993974,467435,R1234890,Supermarket West,1,$31.90 
+9/1/2016,Competitor A,161747,477500,R1234928,Supermarket East,1,$7.70 
+9/2/2016,Competitor A,812610,39778,R1235554,Supermarket West,1,$11.90 
+9/2/2016,Competitor B,198485,39778,R1235554,Supermarket West,2,$22.80 
+9/2/2016,Competitor B,269713,164181,R1235994,Supermarket South-West,1,$29.90 
+9/2/2016,Colgate-Palmolive,604757,340949,R1235443,Supermarket South,2,$104.40 
+9/2/2016,Competitor A,113733,467734,R1235683,Supermarket East,1,$31.80 
+9/2/2016,Competitor A,256348,471777,R1235735,Supermarket West,1,$31.90 
+9/2/2016,Competitor A,978820,477988,R1235837,Supermarket West,1,$36.90 
+9/3/2016,Competitor B,198485,42576,R1236581,Supermarket South,2,$28.00 
+9/3/2016,Competitor B,620967,42576,R1236581,Supermarket South,2,$130.00 
+9/3/2016,Competitor A,105573,407878,R1236348,Supermarket South,1,$34.70 
+9/3/2016,Competitor A,477783,454945,R1236477,Supermarket West,2,$53.80 
+9/3/2016,Competitor B,115927,454945,R1236477,Supermarket West,2,$49.80 
+9/3/2016,Competitor B,732190,454945,R1236477,Supermarket West,1,$61.30 
+9/3/2016,Competitor B,776126,454945,R1236477,Supermarket West,2,$122.60 
+9/3/2016,Colgate-Palmolive,588995,466652,R1236090,Supermarket North,1,$34.10 
+9/3/2016,Colgate-Palmolive,604757,469656,R1236151,Supermarket South-West,3,$116.70 
+9/4/2016,Colgate-Palmolive,330691,282618,R1236791,Supermarket North,1,$37.20 
+9/4/2016,Competitor B,315236,282618,R1236791,Supermarket North,1,$37.00 
+9/4/2016,Colgate-Palmolive,700442,435383,R1236897,Supermarket West,1,$35.90 
+9/4/2016,Colgate-Palmolive,863562,442057,R1236966,Supermarket North,1,$34.70 
+9/4/2016,Competitor A,249666,467286,R1237156,Supermarket West,1,$37.00 
+9/4/2016,Colgate-Palmolive,863562,468356,R1237081,Supermarket North-East,1,$31.50 
+9/4/2016,Competitor B,720906,470281,R1237390,Supermarket East,1,$40.90 
+9/4/2016,Competitor A,137087,478410,R1237258,Supermarket West,1,$24.90 
+9/5/2016,Colgate-Palmolive,669118,402,R1237552,Supermarket North,2,$78.60 
+9/5/2016,Colgate-Palmolive,786865,5787,R1237684,Supermarket North,1,$57.00 
+9/5/2016,Colgate-Palmolive,227633,5787,R1237684,Supermarket North,1,$55.00 
+9/5/2016,Competitor B,732190,200082,R1238082,Supermarket South,1,$65.00 
+9/5/2016,Competitor B,422968,272240,R1238188,Supermarket North,1,$37.00 
+9/5/2016,Competitor A,166761,406216,R1237826,Supermarket West,1,$26.90 
+9/5/2016,Competitor B,419762,448474,R1238223,Supermarket North-East,1,$33.60 
+9/5/2016,Competitor A,397127,454945,R1237993,Supermarket West,6,$37.00 
+9/5/2016,Competitor A,322245,454945,R1237993,Supermarket West,3,$80.70 
+9/5/2016,Colgate-Palmolive,915953,470669,R1237798,Supermarket North,1,$51.70 
+9/6/2016,Colgate-Palmolive,786865,11463,R1238344,Supermarket North,1,$51.70 
+9/6/2016,Competitor B,714468,142162,R1238678,Supermarket West,1,$11.40 
+9/6/2016,Colgate-Palmolive,330691,448188,R1238447,Supermarket North,1,$37.20 
+9/6/2016,Competitor A,936450,454945,R1238598,Supermarket West,3,$83.70 
+9/6/2016,Competitor A,164377,454945,R1238598,Supermarket West,1,$23.60 
+9/6/2016,Competitor A,388827,454945,R1238598,Supermarket West,2,$55.80 
+9/6/2016,Competitor A,770544,454945,R1238598,Supermarket West,1,$24.90 
+9/6/2016,Competitor A,249666,454945,R1238598,Supermarket West,2,$74.00 
+9/6/2016,Competitor A,166761,454945,R1238598,Supermarket South-West,5,$67.60 
+9/6/2016,Competitor A,166761,454945,R1238598,Supermarket West,3,$80.70 
+9/7/2016,Competitor A,701139,22871,R1238814,Supermarket South,1,$34.50 
+9/7/2016,Competitor A,701139,306747,R1238955,Supermarket South,1,$34.50 
+9/7/2016,Competitor A,789157,454945,R1238728,Supermarket West,3,$74.70 
+9/7/2016,Competitor A,249666,454945,R1238728,Supermarket West,1,$37.00 
+9/7/2016,Competitor A,397127,454945,R1238728,Supermarket West,5,$148.00 
+9/7/2016,Competitor B,583164,479060,R1239144,Supermarket North-East,1,$31.40 
+9/8/2016,Competitor B,640845,5160,R1239822,Supermarket North,1,$40.60 
+9/8/2016,Colgate-Palmolive,506459,259108,R1239270,Supermarket West,1,$43.20 
+9/8/2016,Competitor A,248817,300346,R1239469,Supermarket South,1,$37.90 
+9/8/2016,Competitor A,477783,454945,R1239358,Supermarket West,1,$26.90 
+9/8/2016,Competitor A,199788,454945,R1239358,Supermarket West,1,$26.90 
+9/8/2016,Competitor B,653241,454945,R1239358,Supermarket West,1,$24.90 
+9/8/2016,Competitor A,137087,467435,R1239538,Supermarket West,1,$24.90 
+9/8/2016,Competitor A,477783,478912,R1239611,Supermarket West,1,$27.80 
+9/9/2016,Competitor B,419762,17379,R1240385,Supermarket West,1,$33.80 
+9/9/2016,Competitor B,537012,17379,R1240385,Supermarket West,1,$43.00 
+9/9/2016,Competitor A,909225,198843,R1240011,Supermarket North,1,$41.70 
+9/9/2016,Competitor A,701139,346263,R1240186,Supermarket West,1,$31.90 
+9/9/2016,Competitor A,909225,346263,R1240186,Supermarket West,1,$36.90 
+9/9/2016,Competitor B,714468,396075,R1240452,Supermarket West,1,$11.40 
+9/9/2016,Competitor A,909225,407878,R1240246,Supermarket North,1,$41.70 
+9/9/2016,Colgate-Palmolive,123796,424128,R1239978,Supermarket West,1,$31.30 
+9/9/2016,Colgate-Palmolive,301348,424128,R1239978,Supermarket West,1,$43.20 
+9/10/2016,Competitor B,732190,315804,R1241125,Supermarket South,1,$65.00 
+9/10/2016,Competitor A,422570,335445,R1240720,Supermarket North,1,$40.40 
+9/10/2016,Competitor B,584710,440582,R1241215,Supermarket North-East,1,$39.80 
+9/10/2016,Competitor B,720906,440582,R1241215,Supermarket North-East,1,$39.80 
+9/10/2016,Competitor B,359784,440582,R1241215,Supermarket North-East,1,$39.80 
+9/10/2016,Competitor A,249666,454945,R1240864,Supermarket West,4,$148.00 
+9/10/2016,Competitor A,477783,454945,R1240864,Supermarket West,1,$27.80 
+9/10/2016,Competitor B,640845,454945,R1240864,Supermarket West,1,$39.80 
+9/10/2016,Competitor B,532182,454945,R1240864,Supermarket West,2,$59.80 
+9/10/2016,Colgate-Palmolive,915953,464465,R1240523,Supermarket North,2,$103.40 
+9/10/2016,Colgate-Palmolive,123796,480139,R1240679,Supermarket West,1,$31.30 
+9/10/2016,Competitor A,993974,480164,R1241085,Supermarket North,1,$40.40 
+9/11/2016,Competitor A,422570,310307,R1241334,Supermarket South,1,$34.50 
+9/11/2016,Competitor B,419762,378688,R1241732,Supermarket South,3,$114.60 
+9/11/2016,Competitor A,248817,456705,R1241429,Supermarket West,1,$36.90 
+9/11/2016,Competitor B,954518,462993,R1241573,Supermarket East,2,$76.80 
+9/11/2016,Competitor B,640845,462993,R1241573,Supermarket East,1,$40.90 
+9/11/2016,Competitor B,720906,477201,R1241695,Supermarket East,1,$40.90 
+9/12/2016,Competitor B,315236,69654,R1242266,Supermarket West,1,$33.80 
+9/12/2016,Competitor B,640845,304735,R1242154,Supermarket North-East,1,$39.80 
+9/12/2016,Competitor A,477783,436689,R1241970,Supermarket West,1,$27.80 
+9/12/2016,Competitor B,879915,479472,R1242399,Supermarket North,1,$7.50 
+9/12/2016,Competitor B,796801,479472,R1242399,Supermarket North,1,$44.60 
+9/12/2016,Colgate-Palmolive,597365,480715,R1241849,Supermarket East,3,$144.90 
+9/13/2016,Competitor A,137087,372549,R1242563,Supermarket West,1,$24.90 
+9/13/2016,Competitor A,770544,372549,R1242563,Supermarket West,1,$24.90 
+9/13/2016,Competitor A,477783,372549,R1242563,Supermarket West,1,$27.80 
+9/13/2016,Competitor B,419762,424033,R1242663,Supermarket West,1,$33.80 
+9/13/2016,Competitor B,198485,424033,R1242663,Supermarket West,1,$11.40 
+9/13/2016,Competitor B,315236,445921,R1242733,Supermarket North,1,$37.00 
+9/14/2016,Colgate-Palmolive,915953,17184,R1242823,Supermarket North,1,$51.70 
+9/14/2016,Colgate-Palmolive,588995,265324,R1242957,Supermarket South,1,$43.90 
+9/14/2016,Competitor A,252726,454945,R1243186,Supermarket West,3,$99.30 
+9/14/2016,Competitor B,855059,454945,R1243186,Supermarket West,1,$59.90 
+9/15/2016,Colgate-Palmolive,786865,11463,R1243271,Supermarket North,1,$51.70 
+9/15/2016,Competitor B,714468,11463,R1243271,Supermarket North,1,$14.50 
+9/15/2016,Colgate-Palmolive,915953,14333,R1243389,Supermarket North,1,$51.70 
+9/15/2016,Colgate-Palmolive,905356,228977,R1243518,Supermarket North,1,$32.90 
+9/15/2016,Competitor A,789157,232051,R1243773,Supermarket West,1,$28.50 
+9/15/2016,Competitor A,473581,232051,R1243773,Supermarket West,1,$31.90 
+9/15/2016,Competitor B,776126,445774,R1243879,Supermarket South,1,$65.00 
+9/15/2016,Competitor B,954518,476320,R1243991,Supermarket North,1,$35.10 
+9/15/2016,Competitor B,903052,479472,R1244099,Supermarket North,1,$34.60 
+9/16/2016,Competitor B,732190,93487,R1244514,Supermarket West,1,$59.90 
+9/16/2016,Colgate-Palmolive,905356,192014,R1244180,Supermarket North-East,1,$31.50 
+9/16/2016,Colgate-Palmolive,905356,457781,R1244348,Supermarket North,1,$34.10 
+9/17/2016,Competitor B,537012,105560,R1245297,Supermarket West,2,$86.00 
+9/17/2016,Competitor B,709381,105560,R1245297,Supermarket West,2,$86.00 
+9/17/2016,Competitor B,720906,126660,R1245129,Supermarket North-East,2,$79.60 
+9/17/2016,Colgate-Palmolive,645430,175781,R1244686,Supermarket West,3,$120.00 
+9/17/2016,Competitor B,419762,198843,R1245352,Supermarket North-East,1,$33.60 
+9/17/2016,Competitor A,924893,306747,R1245080,Supermarket South,1,$36.90 
+9/18/2016,Colgate-Palmolive,330691,448188,R1245479,Supermarket North,1,$37.20 
+9/18/2016,Colgate-Palmolive,915953,448188,R1245479,Supermarket North,1,$51.70 
+9/18/2016,Competitor B,714468,448188,R1245479,Supermarket North,1,$14.50 
+9/18/2016,Competitor B,470080,462064,R1245535,Supermarket East,1,$40.90 
+9/18/2016,Competitor B,359784,481973,R1245657,Supermarket North,1,$44.00 
+9/19/2016,Colgate-Palmolive,786865,5787,R1245731,Supermarket North,1,$57.00 
+9/19/2016,Colgate-Palmolive,227633,5787,R1245731,Supermarket North,1,$55.00 
+9/19/2016,Competitor A,701139,52079,R1245849,Supermarket West,2,$31.90 
+9/19/2016,Competitor B,720906,282618,R1246178,Supermarket North,1,$44.00 
+9/19/2016,Competitor B,620967,282618,R1246178,Supermarket North,1,$71.50 
+9/19/2016,Colgate-Palmolive,786865,300346,R1245991,Supermarket West,1,$40.00 
+9/19/2016,Colgate-Palmolive,786865,304735,R1246093,Supermarket North,1,$57.00 
+9/19/2016,Competitor B,422968,482109,R1246298,Supermarket North-West,1,$38.40 
+9/20/2016,Competitor B,903052,104934,R1246571,Supermarket West,1,$29.90 
+9/20/2016,Competitor B,198485,104934,R1246571,Supermarket West,1,$11.40 
+9/20/2016,Competitor A,701139,156193,R1246360,Supermarket West,1,$31.90 
+9/20/2016,Competitor B,768644,244012,R1246691,Supermarket West,1,$59.90 
+9/20/2016,Competitor B,555673,379399,R1246799,Supermarket South,1,$55.50 
+9/20/2016,Competitor A,388827,398467,R1246473,Supermarket East,1,$31.80 
+9/20/2016,Competitor B,315236,445921,R1246878,Supermarket South,1,$38.20 
+9/21/2016,Competitor B,537012,105560,R1247125,Supermarket West,2,$86.00 
+9/21/2016,Competitor B,584710,428999,R1247022,Supermarket North,1,$40.60 
+9/21/2016,Competitor A,468800,480116,R1246939,Supermarket West,1,$41.90 
+9/22/2016,Competitor A,924893,306747,R1247311,Supermarket South,1,$36.90 
+9/22/2016,Competitor A,468800,371377,R1247478,Supermarket West,1,$55.90 
+9/22/2016,Competitor A,789157,452966,R1247546,Supermarket West,1,$28.50 
+9/22/2016,Competitor A,249666,452966,R1247546,Supermarket West,1,$37.00 
+9/22/2016,Colgate-Palmolive,863562,468356,R1247214,Supermarket North-East,1,$31.50 
+9/22/2016,Competitor B,537012,483171,R1247747,Supermarket West,1,$43.00 
+9/23/2016,Competitor B,720906,46356,R1248012,Supermarket North,1,$44.00 
+9/23/2016,Competitor B,315236,82052,R1248171,Supermarket North,1,$37.00 
+9/23/2016,Competitor B,359784,82052,R1248171,Supermarket North,1,$44.00 
+9/23/2016,Competitor B,714468,272240,R1247883,Supermarket South,1,$14.00 
+9/23/2016,Competitor B,537012,434104,R1248255,Supermarket West,3,$134.40 
+9/23/2016,Competitor B,714468,434104,R1248255,Supermarket West,2,$22.80 
+9/23/2016,Colgate-Palmolive,348047,470669,R1247920,Supermarket North,1,$37.20 
+9/23/2016,Colgate-Palmolive,915953,470669,R1247920,Supermarket North,1,$51.70 
+9/24/2016,Colgate-Palmolive,915953,11463,R1248353,Supermarket North,1,$51.70 
+9/24/2016,Competitor B,138108,48576,R1249092,Supermarket West,1,$65.30 
+9/24/2016,Competitor A,477783,69654,R1248688,Supermarket West,1,$21.50 
+9/24/2016,Competitor A,249666,162162,R1248756,Supermarket North-East,1,$34.70 
+9/24/2016,Competitor B,714468,404733,R1249187,Supermarket South,1,$14.00 
+9/24/2016,Competitor B,419762,448474,R1249296,Supermarket North-East,2,$67.20 
+9/24/2016,Competitor B,532182,453607,R1249360,Supermarket East,1,$41.30 
+9/24/2016,Competitor B,954518,462993,R1248936,Supermarket East,2,$76.80 
+9/24/2016,Competitor A,422570,465261,R1248825,Supermarket South,1,$34.50 
+9/24/2016,Colgate-Palmolive,588995,473811,R1248444,Supermarket North-West,1,$32.30 
+9/24/2016,Colgate-Palmolive,905356,483790,R1248536,Supermarket West,1,$39.90 
+9/24/2016,Competitor A,249666,483790,R1248536,Supermarket West,1,$32.90 
+9/25/2016,Competitor A,473581,12434,R1249738,Supermarket West,1,$31.90 
+9/25/2016,Colgate-Palmolive,300035,133064,R1249493,Supermarket West,1,$40.00 
+9/25/2016,Competitor A,789157,133064,R1249493,Supermarket West,1,$28.50 
+9/25/2016,Competitor A,137087,133064,R1249493,Supermarket West,1,$28.50 
+9/25/2016,Competitor B,315236,198843,R1250039,Supermarket South,1,$38.20 
+9/25/2016,Colgate-Palmolive,863562,395660,R1249535,Supermarket West,1,$39.90 
+9/25/2016,Competitor B,315236,445921,R1250178,Supermarket South,1,$38.20 
+9/25/2016,Colgate-Palmolive,762610,456992,R1249629,Supermarket West,1,$57.00 
+9/25/2016,Competitor B,692107,476815,R1250249,Supermarket North,1,$3.40 
+9/25/2016,Competitor B,422968,482109,R1250345,Supermarket North-West,1,$38.40 
+9/25/2016,Competitor A,137087,483505,R1249818,Supermarket West,2,$57.00 
+9/25/2016,Competitor A,533718,484075,R1249918,Supermarket West,1,$28.50 
+9/26/2016,Competitor B,982986,268038,R1250787,Supermarket North-East,1,$39.80 
+9/26/2016,Colgate-Palmolive,771567,378228,R1250487,Supermarket South,1,$46.90 
+9/26/2016,Competitor A,701139,454945,R1250571,Supermarket West,1,$31.90 
+9/26/2016,Competitor A,166761,483255,R1250678,Supermarket South-West,1,$36.00 
+9/26/2016,Competitor A,199788,483255,R1250678,Supermarket South-West,1,$36.00 
+9/27/2016,Colgate-Palmolive,597365,59949,R1250970,Supermarket South,2,$110.00 
+9/27/2016,Colgate-Palmolive,330691,225823,R1251044,Supermarket North,1,$37.20 
+9/27/2016,Competitor B,759650,363669,R1251553,Supermarket South,1,$59.90 
+9/27/2016,Colgate-Palmolive,915953,434214,R1251170,Supermarket North,1,$51.70 
+9/27/2016,Colgate-Palmolive,905356,441080,R1251286,Supermarket West,1,$39.90 
+9/27/2016,Competitor B,954518,476320,R1251618,Supermarket North,1,$35.10 
+9/27/2016,Colgate-Palmolive,915953,481972,R1251338,Supermarket North,2,$103.40 
+9/27/2016,Competitor A,701139,484557,R1251468,Supermarket West,1,$31.90 
+9/28/2016,Competitor B,537012,147715,R1251726,Supermarket West,1,$42.90 
+9/28/2016,Competitor B,198485,147715,R1251726,Supermarket West,1,$11.40 
+9/28/2016,Competitor B,849497,147715,R1251726,Supermarket West,1,$39.80 
+9/28/2016,Competitor A,701139,453881,R1251927,Supermarket West,1,$31.90 
+9/29/2016,Competitor A,422570,82105,R1252342,Supermarket West,1,$31.90 
+9/29/2016,Competitor A,924893,306747,R1252487,Supermarket South,1,$36.90 
+9/29/2016,Colgate-Palmolive,899488,375276,R1252125,Supermarket North,1,$37.20 
+9/29/2016,Colgate-Palmolive,926954,436689,R1252254,Supermarket West,1,$39.90 
+9/29/2016,Competitor A,477783,436689,R1252254,Supermarket West,1,$27.80 
+9/29/2016,Competitor B,584710,440582,R1252657,Supermarket North,1,$44.00 
+9/29/2016,Competitor B,720906,440582,R1252657,Supermarket North,2,$88.00 
+9/29/2016,Competitor B,466334,440582,R1252657,Supermarket North,1,$52.80 
+9/29/2016,Competitor A,473581,467286,R1252550,Supermarket North,1,$40.40 
+9/29/2016,Competitor B,855059,482625,R1252744,Supermarket West,1,$59.90 
+9/30/2016,Competitor B,315236,1749,R1253290,Supermarket West,1,$33.70 
+9/30/2016,Competitor B,714468,31521,R1253398,Supermarket North,1,$14.50 
+9/30/2016,Competitor B,732190,381654,R1253161,Supermarket West,2,$119.80 
+9/30/2016,Competitor A,993974,426120,R1252896,Supermarket West,1,$31.90 
+9/30/2016,Competitor A,701139,426120,R1252896,Supermarket West,1,$31.90 
+9/30/2016,Competitor A,993974,466478,R1252947,Supermarket West,1,$31.90 
+9/30/2016,Competitor A,701139,466478,R1252947,Supermarket West,1,$31.90 
+9/30/2016,Competitor A,166761,485292,R1253076,Supermarket West,1,$27.80 
+10/1/2016,Competitor A,978820,421863,R1253416,Supermarket South,2,$37.90 
+10/2/2016,Competitor A,422570,75331,R1253817,Supermarket North-East,1,$34.70 
+10/2/2016,Competitor B,315236,78499,R1254136,Supermarket North-East,1,$33.60 
+10/2/2016,Competitor B,385150,78499,R1254136,Supermarket North-East,1,$33.60 
+10/2/2016,Competitor B,584710,93487,R1254039,Supermarket West,1,$39.80 
+10/2/2016,Competitor A,322245,114192,R1253963,Supermarket West,1,$27.80 
+10/2/2016,Colgate-Palmolive,190493,132388,R1253630,Supermarket South-West,1,$32.90 
+10/2/2016,Colgate-Palmolive,597365,430455,R1253761,Supermarket West,1,$57.00 
+10/2/2016,Competitor B,537012,483171,R1254295,Supermarket West,1,$42.90 
+10/3/2016,Competitor B,315236,198843,R1254545,Supermarket North-East,1,$33.60 
+10/3/2016,Colgate-Palmolive,786865,304735,R1254392,Supermarket West,1,$67.80 
+10/3/2016,Competitor B,198485,486345,R1254622,Supermarket South,1,$14.00 
+10/4/2016,Colgate-Palmolive,123796,38671,R1254716,Supermarket West,1,$31.30 
+10/4/2016,Competitor A,249666,375485,R1255117,Supermarket West,3,$98.70 
+10/4/2016,Competitor B,419762,375485,R1255117,Supermarket West,2,$67.40 
+10/4/2016,Colgate-Palmolive,301348,424128,R1254863,Supermarket West,1,$43.20 
+10/4/2016,Competitor A,993974,435383,R1255226,Supermarket West,1,$31.90 
+10/4/2016,Colgate-Palmolive,863562,442442,R1254934,Supermarket North,1,$34.10 
+10/4/2016,Colgate-Palmolive,915953,474458,R1255072,Supermarket West,2,$135.60 
+10/5/2016,Colgate-Palmolive,926954,75331,R1255328,Supermarket North,2,$68.20 
+10/5/2016,Competitor A,701139,156193,R1255546,Supermarket West,1,$31.90 
+10/5/2016,Competitor B,982986,268038,R1255740,Supermarket North-West,1,$44.20 
+10/5/2016,Colgate-Palmolive,798288,361847,R1255447,Supermarket West,2,$71.80 
+10/5/2016,Competitor B,419762,361847,R1255447,Supermarket West,1,$33.70 
+10/5/2016,Competitor B,849497,361847,R1255447,Supermarket West,1,$39.80 
+10/5/2016,Competitor A,468800,371377,R1255664,Supermarket West,1,$41.80 
+10/5/2016,Competitor B,776126,371377,R1255664,Supermarket North,1,$71.50 
+10/5/2016,Competitor B,640845,462993,R1255899,Supermarket West,2,$79.60 
+10/5/2016,Competitor B,537012,462993,R1255899,Supermarket West,1,$42.90 
+10/6/2016,Colgate-Palmolive,915953,11463,R1255979,Supermarket North,1,$51.70 
+10/6/2016,Competitor B,720906,46356,R1256435,Supermarket West,3,$119.40 
+10/6/2016,Competitor A,701139,163959,R1256375,Supermarket West,2,$63.80 
+10/6/2016,Competitor B,422968,282618,R1256644,Supermarket North,1,$37.00 
+10/6/2016,Competitor B,359784,282618,R1256644,Supermarket North,2,$88.00 
+10/6/2016,Colgate-Palmolive,786865,375276,R1256022,Supermarket North,1,$51.70 
+10/6/2016,Colgate-Palmolive,300035,375276,R1256022,Supermarket North,1,$52.30 
+10/6/2016,Competitor B,954518,476320,R1256537,Supermarket North,1,$35.10 
+10/6/2016,Competitor B,532182,476320,R1256537,Supermarket North,1,$39.50 
+10/6/2016,Colgate-Palmolive,786865,485504,R1256114,Supermarket West,1,$67.80 
+10/6/2016,Colgate-Palmolive,300035,485504,R1256114,Supermarket West,1,$67.80 
+10/6/2016,Colgate-Palmolive,786865,487208,R1256275,Supermarket North,2,$103.40 
+10/7/2016,Colgate-Palmolive,786865,179760,R1256714,Supermarket North,1,$51.70 
+10/7/2016,Competitor B,312964,355406,R1257173,Supermarket South-West,1,$6.20 
+10/7/2016,Colgate-Palmolive,798288,371613,R1256834,Supermarket West,2,$71.80 
+10/7/2016,Colgate-Palmolive,298313,371613,R1256834,Supermarket West,1,$49.70 
+10/7/2016,Colgate-Palmolive,926954,484994,R1256972,Supermarket North,1,$34.10 
+10/7/2016,Colgate-Palmolive,762610,485516,R1257093,Supermarket West,1,$57.00 
+10/8/2016,Colgate-Palmolive,863562,192014,R1257260,Supermarket North-East,1,$30.00 
+10/8/2016,Competitor B,692107,475131,R1257585,Supermarket West,2,$6.80 
+10/8/2016,Competitor A,468800,480116,R1257482,Supermarket West,1,$41.80 
+10/8/2016,Competitor A,256348,480116,R1257482,Supermarket West,1,$31.90 
+10/8/2016,Competitor B,315236,483569,R1257614,Supermarket West,1,$33.70 
+10/8/2016,Colgate-Palmolive,786865,487666,R1257383,Supermarket West,1,$67.80 
+10/9/2016,Competitor A,422570,82105,R1258050,Supermarket West,1,$30.90 
+10/9/2016,Colgate-Palmolive,915953,173536,R1257760,Supermarket North,1,$51.70 
+10/9/2016,Colgate-Palmolive,926954,344492,R1257854,Supermarket North,1,$34.10 
+10/9/2016,Competitor B,315236,347126,R1258262,Supermarket North,2,$74.00 
+10/9/2016,Colgate-Palmolive,597365,469617,R1257981,Supermarket West,1,$57.00 
+10/9/2016,Competitor B,982986,469617,R1257981,Supermarket West,1,$39.80 
+10/9/2016,Competitor B,138108,469617,R1257981,Supermarket West,1,$65.30 
+10/9/2016,Competitor B,555673,482481,R1258144,Supermarket West,1,$43.80 
+10/10/2016,Competitor B,390602,97879,R1258584,Supermarket West,4,$152.40 
+10/10/2016,Colgate-Palmolive,597365,265869,R1258493,Supermarket South,1,$55.00 
+10/11/2016,Colgate-Palmolive,899488,487516,R1258650,Supermarket North,1,$37.20 
+10/11/2016,Colgate-Palmolive,786865,487516,R1258650,Supermarket North,1,$57.00 
+10/12/2016,Competitor B,385150,20269,R1259610,Supermarket North-East,1,$32.00 
+10/12/2016,Competitor B,359784,20269,R1259610,Supermarket North-East,1,$37.90 
+10/12/2016,Colgate-Palmolive,588995,265324,R1259037,Supermarket South,1,$43.90 
+10/12/2016,Colgate-Palmolive,771567,428180,R1259153,Supermarket West,2,$71.80 
+10/12/2016,Competitor B,555673,455859,R1259512,Supermarket West,1,$43.80 
+10/12/2016,Competitor A,256348,474984,R1259290,Supermarket West,1,$31.90 
+10/12/2016,Competitor A,105573,486037,R1259364,Supermarket South,1,$34.70 
+10/12/2016,Competitor A,422570,488481,R1259426,Supermarket North,2,$80.80 
+10/13/2016,Competitor B,390602,5910,R1260119,Supermarket North,1,$37.00 
+10/13/2016,Competitor B,198485,31521,R1260298,Supermarket West,1,$11.40 
+10/13/2016,Colgate-Palmolive,798288,51558,R1259715,Supermarket West,1,$35.90 
+10/13/2016,Competitor B,879915,283353,R1260348,Supermarket North,2,$15.00 
+10/13/2016,Competitor A,770544,482787,R1260081,Supermarket West,1,$28.50 
+10/13/2016,Colgate-Palmolive,840328,483344,R1259892,Supermarket North,1,$33.80 
+10/14/2016,Competitor B,385150,21416,R1260646,Supermarket North,1,$37.00 
+10/14/2016,Competitor B,879915,21416,R1260646,Supermarket North,1,$7.50 
+10/14/2016,Competitor B,855059,42755,R1260491,Supermarket West,1,$59.90 
+10/14/2016,Competitor B,110582,93487,R1260790,Supermarket West,1,$65.30 
+10/14/2016,Competitor B,390602,231889,R1260896,Supermarket North-West,2,$76.80 
+10/14/2016,Competitor B,720906,326377,R1260570,Supermarket North,3,$132.00 
+10/14/2016,Competitor B,385150,326377,R1260570,Supermarket North,3,$111.00 
+10/15/2016,Competitor B,315236,69654,R1261095,Supermarket West,1,$33.70 
+10/15/2016,Colgate-Palmolive,786865,272240,R1261154,Supermarket West,1,$67.80 
+10/16/2016,Colgate-Palmolive,915953,236929,R1261316,Supermarket North,1,$51.70 
+10/16/2016,Competitor B,198485,363669,R1261769,Supermarket South,1,$14.00 
+10/16/2016,Competitor B,138108,462993,R1261883,Supermarket West,1,$65.30 
+10/16/2016,Competitor B,982986,470281,R1261661,Supermarket West,1,$39.80 
+10/17/2016,Colgate-Palmolive,863562,365618,R1261920,Supermarket North,1,$34.10 
+10/17/2016,Competitor B,982986,365618,R1261920,Supermarket North,1,$44.00 
+10/17/2016,Competitor B,198485,365618,R1261920,Supermarket North,1,$14.50 
+10/17/2016,Competitor B,879915,365618,R1261920,Supermarket North,1,$7.50 
+10/17/2016,Competitor B,359784,365618,R1261920,Supermarket North,1,$44.00 
+10/17/2016,Colgate-Palmolive,905356,428999,R1262010,Supermarket North,2,$68.20 
+10/17/2016,Competitor B,720906,440582,R1262268,Supermarket North-East,2,$75.80 
+10/17/2016,Competitor B,849497,440582,R1262268,Supermarket North-East,2,$75.80 
+10/18/2016,Competitor B,537012,116697,R1262520,Supermarket West,2,$87.60 
+10/18/2016,Competitor A,322245,443844,R1262357,Supermarket North,1,$38.00 
+10/18/2016,Competitor B,139932,443844,R1262357,Supermarket North,1,$71.50 
+10/18/2016,Competitor B,315236,445921,R1262616,Supermarket South,1,$38.20 
+10/18/2016,Competitor B,537012,489292,R1262784,Supermarket West,1,$43.80 
+10/19/2016,Competitor B,720906,46356,R1262923,Supermarket West,3,$119.40 
+10/19/2016,Competitor B,385150,67670,R1263167,Supermarket North-East,1,$32.00 
+10/19/2016,Competitor B,879915,143578,R1263262,Supermarket North,2,$15.00 
+10/19/2016,Competitor B,537012,191646,R1263348,Supermarket West,1,$43.80 
+10/19/2016,Colgate-Palmolive,786865,272240,R1262881,Supermarket West,2,$135.60 
+10/19/2016,Competitor B,954518,349062,R1263079,Supermarket North-East,1,$32.00 
+10/20/2016,Competitor B,768644,244012,R1263613,Supermarket West,1,$59.90 
+10/20/2016,Competitor A,936450,299780,R1263427,Supermarket West,1,$32.50 
+10/20/2016,Competitor B,537012,434104,R1263771,Supermarket West,1,$43.80 
+10/20/2016,Competitor B,198485,434104,R1263771,Supermarket West,1,$11.40 
+10/20/2016,Competitor B,419762,448474,R1263816,Supermarket North-East,2,$64.00 
+10/21/2016,Competitor A,701139,93724,R1264052,Supermarket West,1,$31.90 
+10/21/2016,Competitor A,477783,93724,R1264052,Supermarket West,2,$55.60 
+10/21/2016,Competitor B,390602,97879,R1264360,Supermarket West,2,$76.20 
+10/21/2016,Competitor B,138108,97879,R1264360,Supermarket West,2,$130.60 
+10/21/2016,Competitor A,248817,220433,R1264110,Supermarket West,1,$36.90 
+10/21/2016,Colgate-Palmolive,905356,466652,R1263944,Supermarket North,1,$34.10 
+10/21/2016,Competitor A,701139,468356,R1264216,Supermarket West,1,$31.90 
+10/22/2016,Colgate-Palmolive,786865,272240,R1264424,Supermarket North,1,$51.70 
+10/22/2016,Colgate-Palmolive,348047,377222,R1264569,Supermarket North,1,$37.20 
+10/22/2016,Competitor A,909225,407878,R1264640,Supermarket North,1,$41.70 
+10/22/2016,Competitor B,537012,448385,R1265125,Supermarket West,1,$44.80 
+10/22/2016,Competitor A,701139,466478,R1264723,Supermarket West,1,$31.90 
+10/22/2016,Competitor A,770544,482156,R1264818,Supermarket West,1,$28.50 
+10/22/2016,Competitor A,431786,482156,R1264818,Supermarket West,1,$27.80 
+10/22/2016,Competitor A,701139,489670,R1264951,Supermarket South,1,$34.50 
+10/23/2016,Colgate-Palmolive,905356,42755,R1265222,Supermarket West,1,$27.90 
+10/23/2016,Competitor A,789157,172934,R1265625,Supermarket West,2,$28.50 
+10/23/2016,Colgate-Palmolive,915953,436689,R1265442,Supermarket North,1,$51.70 
+10/23/2016,Competitor A,473581,442057,R1265744,Supermarket North,1,$40.40 
+10/23/2016,Colgate-Palmolive,863562,453881,R1265527,Supermarket West,1,$27.90 
+10/23/2016,Competitor A,978820,456705,R1265812,Supermarket West,1,$36.90 
+10/23/2016,Competitor A,978820,464802,R1265958,Supermarket West,1,$36.90 
+10/24/2016,Competitor A,248817,116697,R1266328,Supermarket South,3,$113.70 
+10/24/2016,Colgate-Palmolive,588995,265324,R1266167,Supermarket North,1,$34.10 
+10/24/2016,Competitor A,993974,435383,R1266492,Supermarket West,1,$31.90 
+10/24/2016,Competitor B,640845,484086,R1266822,Supermarket North,4,$176.00 
+10/24/2016,Competitor A,477783,488707,R1266677,Supermarket West,1,$27.80 
+10/25/2016,Colgate-Palmolive,645430,8416,R1266960,Supermarket West,1,$64.20 
+10/25/2016,Competitor B,198485,97879,R1267594,Supermarket North,4,$52.40 
+10/25/2016,Competitor B,359784,192014,R1267647,Supermarket North-East,1,$37.90 
+10/25/2016,Colgate-Palmolive,762610,428180,R1267089,Supermarket West,1,$57.00 
+10/25/2016,Competitor B,315236,445921,R1267779,Supermarket North,1,$37.00 
+10/25/2016,Competitor B,555673,455859,R1267412,Supermarket West,2,$89.60 
+10/25/2016,Competitor A,422570,474406,R1267295,Supermarket West,1,$37.00 
+10/25/2016,Competitor A,924893,481670,R1267327,Supermarket South,2,$73.80 
+10/25/2016,Competitor B,493158,487131,R1267898,Supermarket West,1,$65.30 
+10/25/2016,Competitor B,537012,488481,R1267941,Supermarket West,2,$89.60 
+10/25/2016,Competitor B,620967,488481,R1267941,Supermarket West,1,$59.90 
+10/25/2016,Colgate-Palmolive,899488,489669,R1267147,Supermarket North,1,$37.20 
+10/26/2016,Competitor A,248817,2461,R1268085,Supermarket South,1,$37.90 
+10/26/2016,Competitor B,537012,2461,R1268085,Supermarket South,2,$125.20 
+10/26/2016,Competitor B,537012,191646,R1268284,Supermarket West,1,$44.80 
+10/26/2016,Competitor B,537012,484651,R1268313,Supermarket West,1,$44.80 
+10/27/2016,Competitor A,473581,467286,R1268531,Supermarket North,1,$40.40 
+10/27/2016,Competitor A,422570,468356,R1268695,Supermarket South-West,1,$37.90 
+10/27/2016,Competitor A,199788,486855,R1268785,Supermarket West,1,$27.80 
+10/27/2016,Colgate-Palmolive,786865,487208,R1268419,Supermarket North,1,$57.00 
+10/27/2016,Competitor B,537012,490612,R1268885,Supermarket West,3,$44.80 
+10/28/2016,Competitor A,701139,69643,R1268974,Supermarket South,2,$34.50 
+10/28/2016,Competitor B,776126,371377,R1269028,Supermarket West,1,$59.90 
+10/29/2016,Colgate-Palmolive,899488,205412,R1269132,Supermarket North,1,$37.20 
+10/29/2016,Competitor A,468800,480116,R1269276,Supermarket West,1,$46.90 
+10/29/2016,Competitor B,904468,480116,R1269276,Supermarket West,1,$39.80 
+10/30/2016,Competitor B,768644,244012,R1269551,Supermarket West,1,$59.90 
+10/30/2016,Competitor A,978820,449543,R1269473,Supermarket West,1,$36.90 
+10/30/2016,Competitor B,198485,449543,R1269473,Supermarket West,1,$11.40 
+10/31/2016,Competitor A,477783,108088,R1269767,Supermarket South,1,$34.20 
+10/31/2016,Competitor B,537012,272240,R1270175,Supermarket West,2,$87.80 
+10/31/2016,Competitor B,954518,339930,R1269881,Supermarket North,1,$37.00 
+10/31/2016,Competitor B,584710,440582,R1269991,Supermarket North,1,$44.00 
+10/31/2016,Competitor B,720906,440582,R1269991,Supermarket North,1,$44.00 
+10/31/2016,Competitor B,954518,487666,R1270076,Supermarket North-East,1,$32.00 
+11/1/2016,Colgate-Palmolive,506459,39111,R1270243,Supermarket West,1,$43.20 
+11/1/2016,Competitor A,397127,471777,R1270577,Supermarket West,2,$74.00 
+11/1/2016,Competitor B,385150,486037,R1270749,Supermarket West,1,$33.70 
+11/1/2016,Colgate-Palmolive,863562,489559,R1270361,Supermarket North,1,$34.10 
+11/1/2016,Colgate-Palmolive,962890,489634,R1270463,Supermarket North,1,$80.80 
+11/1/2016,Competitor B,903052,491486,R1270686,Supermarket North-East,2,$63.80 
+11/1/2016,Competitor B,583164,491486,R1270686,Supermarket North-East,2,$59.80 
+11/2/2016,Competitor B,714468,11463,R1270927,Supermarket North,1,$14.50 
+11/2/2016,Colgate-Palmolive,669118,52079,R1270866,Supermarket South,1,$52.20 
+11/2/2016,Competitor B,537012,363669,R1271150,Supermarket West,1,$43.90 
+11/2/2016,Competitor B,537012,476320,R1271293,Supermarket West,1,$43.90 
+11/3/2016,Colgate-Palmolive,863562,192014,R1271345,Supermarket North-East,1,$30.00 
+11/3/2016,Competitor B,163723,474984,R1271664,Supermarket West,1,$26.10 
+11/3/2016,Colgate-Palmolive,786865,487208,R1271460,Supermarket North,2,$114.00 
+11/4/2016,Colgate-Palmolive,915953,5787,R1271770,Supermarket North,1,$51.70 
+11/4/2016,Colgate-Palmolive,300035,133064,R1271873,Supermarket West,1,$42.00 
+11/4/2016,Competitor A,477783,133064,R1271873,Supermarket West,1,$27.80 
+11/4/2016,Colgate-Palmolive,227633,435383,R1271917,Supermarket West,1,$57.00 
+11/4/2016,Competitor B,653241,441590,R1272023,Supermarket West,1,$29.90 
+11/4/2016,Competitor B,692107,441590,R1272023,Supermarket West,3,$10.20 
+11/5/2016,Competitor A,252726,14971,R1272136,Supermarket West,1,$25.90 
+11/5/2016,Competitor A,473581,467286,R1272223,Supermarket West,1,$31.90 
+11/6/2016,Colgate-Palmolive,597365,11463,R1272386,Supermarket West,1,$57.00 
+11/6/2016,Colgate-Palmolive,330691,139168,R1272465,Supermarket North,1,$37.20 
+11/7/2016,Competitor B,115927,84148,R1272960,Supermarket North,3,$103.80 
+11/7/2016,Colgate-Palmolive,905356,150818,R1272524,Supermarket North-East,1,$30.00 
+11/7/2016,Colgate-Palmolive,905356,430455,R1272661,Supermarket North,1,$35.80 
+11/7/2016,Competitor B,537012,455859,R1273244,Supermarket West,2,$87.80 
+11/7/2016,Competitor B,419762,462993,R1273380,Supermarket West,1,$33.70 
+11/7/2016,Competitor B,359784,462993,R1273380,Supermarket West,1,$39.80 
+11/7/2016,Colgate-Palmolive,926954,484994,R1272758,Supermarket North,1,$34.10 
+11/7/2016,Competitor B,904468,492782,R1273088,Supermarket North-East,1,$37.90 
+11/8/2016,Colgate-Palmolive,506459,39111,R1273450,Supermarket West,2,$86.40 
+11/8/2016,Colgate-Palmolive,863562,428999,R1273579,Supermarket North,2,$69.40 
+11/9/2016,Competitor A,248817,116697,R1273939,Supermarket West,2,$73.80 
+11/9/2016,Competitor B,584710,180878,R1274216,Supermarket North-East,1,$37.90 
+11/9/2016,Competitor A,248817,368433,R1274025,Supermarket West,2,$73.80 
+11/9/2016,Colgate-Palmolive,863562,466365,R1273742,Supermarket South,1,$43.90 
+11/9/2016,Competitor A,701139,466478,R1274165,Supermarket West,1,$31.90 
+11/9/2016,Colgate-Palmolive,437022,493291,R1273891,Supermarket South,2,$55.00 
+11/10/2016,Competitor A,625804,47809,R1274699,Supermarket South,1,$24.00 
+11/10/2016,Competitor B,359784,228977,R1274848,Supermarket West,1,$39.80 
+11/10/2016,Colgate-Palmolive,227633,268038,R1274345,Supermarket North,1,$55.00 
+11/10/2016,Competitor B,720906,315375,R1274710,Supermarket North,1,$44.00 
+11/10/2016,Colgate-Palmolive,915953,470669,R1274588,Supermarket North,1,$51.70 
+11/11/2016,Competitor B,419762,141161,R1275130,Supermarket West,2,$67.60 
+11/11/2016,Colgate-Palmolive,300035,428180,R1274938,Supermarket West,2,$93.40 
+11/11/2016,Competitor A,770544,482787,R1275087,Supermarket West,2,$57.00 
+11/11/2016,Competitor B,359784,483959,R1275295,Supermarket North-East,1,$37.90 
+11/12/2016,Colgate-Palmolive,905356,12044,R1275320,Supermarket West,2,$67.80 
+11/12/2016,Colgate-Palmolive,786865,272240,R1275419,Supermarket West,3,$93.40 
+11/12/2016,Competitor B,982986,440582,R1275920,Supermarket North-East,1,$37.90 
+11/12/2016,Competitor B,584710,440582,R1275920,Supermarket North-East,1,$37.90 
+11/12/2016,Competitor B,720906,440582,R1275920,Supermarket North-East,1,$37.90 
+11/12/2016,Competitor B,467159,440582,R1275920,Supermarket North-East,1,$45.90 
+11/12/2016,Competitor A,199788,486564,R1275670,Supermarket South,1,$34.20 
+11/12/2016,Competitor A,477783,490030,R1275732,Supermarket West,2,$55.60 
+11/12/2016,Competitor A,497641,492148,R1275884,Supermarket West,1,$5.50 
+11/12/2016,Competitor A,419869,492148,R1275884,Supermarket West,1,$12.00 
+11/12/2016,Competitor A,220456,492148,R1275884,Supermarket West,1,$5.50 
+11/12/2016,Colgate-Palmolive,863562,493715,R1275541,Supermarket West,1,$33.90 
+11/13/2016,Colgate-Palmolive,227633,2461,R1276095,Supermarket South,1,$55.00 
+11/13/2016,Competitor B,369239,2461,R1276095,Supermarket South,1,$39.70 
+11/13/2016,Competitor B,584710,93487,R1276224,Supermarket West,1,$39.80 
+11/13/2016,Competitor A,993974,265324,R1276190,Supermarket North,1,$40.40 
+11/13/2016,Competitor B,315236,445921,R1276486,Supermarket North,1,$37.00 
+11/14/2016,Competitor B,537012,191646,R1277093,Supermarket West,1,$44.80 
+11/14/2016,Colgate-Palmolive,899488,205412,R1276513,Supermarket North,1,$37.20 
+11/14/2016,Competitor B,640845,231889,R1276936,Supermarket North,2,$88.00 
+11/14/2016,Competitor B,359784,231889,R1276936,Supermarket North,3,$132.00 
+11/14/2016,Competitor B,419762,427894,R1277141,Supermarket North-East,1,$32.00 
+11/14/2016,Competitor A,701139,467286,R1276731,Supermarket West,1,$31.90 
+11/14/2016,Competitor A,701139,468356,R1276868,Supermarket West,2,$31.90 
+11/14/2016,Colgate-Palmolive,863562,489670,R1276643,Supermarket South,1,$43.90 
+11/15/2016,Colgate-Palmolive,588995,12434,R1277244,Supermarket West,1,$33.90 
+11/15/2016,Competitor A,701139,69643,R1277362,Supermarket West,2,$63.80 
+11/15/2016,Competitor A,477783,436689,R1277463,Supermarket West,1,$27.80 
+11/15/2016,Competitor B,583164,486345,R1277631,Supermarket South,1,$39.00 
+11/16/2016,Colgate-Palmolive,348047,103,R1277742,Supermarket North,1,$37.20 
+11/16/2016,Colgate-Palmolive,645430,110138,R1277895,Supermarket West,1,$46.70 
+11/16/2016,Competitor B,584710,180878,R1278127,Supermarket North-East,1,$37.90 
+11/16/2016,Colgate-Palmolive,786865,192332,R1277989,Supermarket West,1,$46.70 
+11/16/2016,Competitor A,431786,304350,R1278082,Supermarket West,1,$27.80 
+11/17/2016,Competitor A,701139,175595,R1278367,Supermarket West,1,$31.90 
+11/17/2016,Competitor A,533718,272240,R1278445,Supermarket West,1,$28.50 
+11/17/2016,Competitor B,954518,349062,R1278585,Supermarket North-East,1,$32.00 
+11/17/2016,Competitor B,315236,445921,R1278626,Supermarket North,1,$37.00 
+11/17/2016,Competitor B,583164,467720,R1278775,Supermarket South,1,$39.00 
+11/17/2016,Colgate-Palmolive,926954,492110,R1278215,Supermarket North,1,$35.80 
+11/17/2016,Competitor B,709381,493328,R1278863,Supermarket West,1,$42.00 
+11/17/2016,Competitor B,315236,494778,R1278970,Supermarket North-West,3,$71.00 
+11/18/2016,Competitor B,768644,76399,R1279066,Supermarket South-West,2,$111.80 
+11/18/2016,Competitor B,315236,494778,R1279183,Supermarket North,1,$37.00 
+11/19/2016,Competitor B,714468,57311,R1279286,Supermarket North,1,$14.50 
+11/20/2016,Colgate-Palmolive,330691,102121,R1279322,Supermarket North,1,$37.20 
+11/20/2016,Competitor A,468800,102121,R1279322,Supermarket North,2,$127.40 
+11/20/2016,Colgate-Palmolive,786865,175781,R1279433,Supermarket West,2,$93.40 
+11/20/2016,Colgate-Palmolive,786865,463872,R1279568,Supermarket West,1,$46.70 
+11/20/2016,Colgate-Palmolive,762610,463872,R1279568,Supermarket West,1,$41.90 
+11/20/2016,Competitor B,904468,480116,R1279765,Supermarket West,2,$39.80 
+11/20/2016,Colgate-Palmolive,348047,492975,R1279647,Supermarket North,1,$37.20 
+11/20/2016,Competitor A,473581,492975,R1279647,Supermarket North,2,$80.80 
+11/20/2016,Competitor A,978820,492975,R1279647,Supermarket North,1,$41.70 
+11/20/2016,Competitor B,692107,492975,R1279647,Supermarket North,1,$3.40 
+11/21/2016,Competitor B,315236,25019,R1280562,Supermarket North,2,$74.00 
+11/21/2016,Colgate-Palmolive,330691,52079,R1279890,Supermarket North-West,1,$30.90 
+11/21/2016,Colgate-Palmolive,123796,234082,R1279971,Supermarket West,1,$31.30 
+11/21/2016,Colgate-Palmolive,300035,234082,R1279971,Supermarket West,1,$46.70 
+11/21/2016,Colgate-Palmolive,300035,430455,R1280011,Supermarket North,1,$52.30 
+11/21/2016,Colgate-Palmolive,840328,468093,R1280148,Supermarket North-West,1,$29.50 
+11/21/2016,Competitor B,954518,483959,R1280348,Supermarket North,1,$37.00 
+11/21/2016,Competitor B,315236,483959,R1280348,Supermarket North,1,$37.00 
+11/21/2016,Competitor B,903052,491486,R1280437,Supermarket North-East,2,$63.80 
+11/21/2016,Competitor A,199153,495347,R1280264,Supermarket North-East,1,$37.00 
+11/22/2016,Competitor B,419762,141161,R1281055,Supermarket West,2,$67.60 
+11/22/2016,Colgate-Palmolive,786865,192332,R1280674,Supermarket West,1,$46.70 
+11/22/2016,Colgate-Palmolive,863562,428999,R1280711,Supermarket North,1,$34.70 
+11/22/2016,Colgate-Palmolive,330691,428999,R1280711,Supermarket North,1,$35.70 
+11/22/2016,Competitor A,477783,474945,R1280888,Supermarket West,1,$27.80 
+11/22/2016,Competitor A,199788,474945,R1280888,Supermarket West,1,$27.80 
+11/22/2016,Competitor B,768644,481395,R1280956,Supermarket South-West,1,$55.90 
+11/22/2016,Competitor B,493158,487131,R1281151,Supermarket West,1,$65.30 
+11/22/2016,Competitor B,178732,495576,R1281261,Supermarket West,1,$26.10 
+11/23/2016,Competitor A,422570,46356,R1281420,Supermarket West,1,$32.90 
+11/23/2016,Competitor B,720906,46356,R1281420,Supermarket West,1,$39.80 
+11/23/2016,Competitor B,720906,64983,R1281773,Supermarket South,1,$40.80 
+11/23/2016,Competitor A,909225,349578,R1281561,Supermarket West,1,$36.90 
+11/23/2016,Competitor B,419762,375485,R1281385,Supermarket West,1,$33.80 
+11/23/2016,Competitor A,322245,415103,R1281663,Supermarket West,1,$27.80 
+11/23/2016,Competitor B,653241,481459,R1281838,Supermarket North,1,$34.60 
+11/23/2016,Competitor B,315236,490595,R1282075,Supermarket South,1,$38.20 
+11/24/2016,Competitor B,419762,12044,R1282580,Supermarket West,1,$33.80 
+11/24/2016,Competitor B,732190,93487,R1282446,Supermarket West,1,$59.80 
+11/24/2016,Competitor B,584710,93487,R1282446,Supermarket West,1,$39.80 
+11/24/2016,Competitor B,692107,93487,R1282446,Supermarket West,4,$13.60 
+11/24/2016,Colgate-Palmolive,915953,133064,R1282142,Supermarket West,1,$46.70 
+11/24/2016,Colgate-Palmolive,300035,133064,R1282142,Supermarket West,1,$46.70 
+11/24/2016,Competitor B,315236,228977,R1282687,Supermarket South-West,1,$31.90 
+11/24/2016,Colgate-Palmolive,798288,281673,R1282226,Supermarket West,1,$37.90 
+11/24/2016,Competitor B,855059,281673,R1282226,Supermarket West,1,$59.80 
+11/24/2016,Competitor A,397127,441429,R1282396,Supermarket West,1,$32.90 
+11/24/2016,Competitor B,315236,445921,R1282768,Supermarket South,1,$38.20 
+11/24/2016,Competitor B,269713,495829,R1282890,Supermarket West,1,$29.00 
+11/25/2016,Competitor B,982986,268038,R1283061,Supermarket North-West,1,$40.90 
+11/25/2016,Colgate-Palmolive,301348,271944,R1282910,Supermarket North,1,$34.00 
+11/25/2016,Competitor B,269713,366394,R1283269,Supermarket West,1,$29.00 
+11/25/2016,Competitor B,269713,470640,R1283340,Supermarket West,4,$116.00 
+11/25/2016,Competitor B,537012,487666,R1283466,Supermarket West,1,$42.00 
+11/25/2016,Competitor B,640845,495974,R1283173,Supermarket North,1,$44.00 
+11/26/2016,Colgate-Palmolive,899488,39111,R1283558,Supermarket North,1,$37.20 
+11/26/2016,Competitor B,198485,85491,R1283950,Supermarket North-East,1,$11.50 
+11/26/2016,Competitor A,497641,141679,R1283718,Supermarket West,1,$5.50 
+11/26/2016,Competitor B,776126,371377,R1283880,Supermarket West,3,$119.60 
+11/26/2016,Colgate-Palmolive,336928,496272,R1283693,Supermarket North,2,$78.60 
+11/26/2016,Colgate-Palmolive,905356,496272,R1283693,Supermarket North,2,$68.20 
+11/27/2016,Competitor B,537012,116697,R1284413,Supermarket West,1,$42.00 
+11/27/2016,Colgate-Palmolive,798288,124027,R1284099,Supermarket West,1,$37.90 
+11/27/2016,Colgate-Palmolive,786865,192332,R1284145,Supermarket West,2,$93.40 
+11/27/2016,Competitor B,537012,434214,R1284566,Supermarket West,1,$42.00 
+11/27/2016,Competitor B,390602,494778,R1284697,Supermarket North,2,$74.00 
+11/27/2016,Competitor B,315236,494778,R1284697,Supermarket North,2,$74.00 
+11/27/2016,Competitor A,397127,496021,R1284242,Supermarket West,1,$32.90 
+11/27/2016,Competitor B,759650,496021,R1284242,Supermarket West,1,$42.00 
+11/27/2016,Competitor A,701139,496290,R1284397,Supermarket South,1,$34.50 
+11/28/2016,Competitor B,537012,191646,R1285026,Supermarket West,2,$84.00 
+11/28/2016,Colgate-Palmolive,588995,265324,R1284779,Supermarket North,1,$34.10 
+11/28/2016,Competitor B,583164,365618,R1285159,Supermarket North,1,$42.90 
+11/28/2016,Competitor B,584710,467286,R1284978,Supermarket North,1,$40.60 
+11/28/2016,Competitor B,178732,496754,R1285296,Supermarket South,1,$31.80 
+11/29/2016,Competitor B,776126,2461,R1285782,Supermarket South,3,$195.00 
+11/29/2016,Colgate-Palmolive,915953,11463,R1285394,Supermarket North,1,$51.70 
+11/29/2016,Competitor B,198485,11463,R1285394,Supermarket North,1,$14.50 
+11/29/2016,Competitor A,422570,365618,R1285457,Supermarket North,1,$40.40 
+11/29/2016,Competitor B,720906,365618,R1285457,Supermarket North,1,$44.00 
+11/29/2016,Competitor B,583164,365618,R1285457,Supermarket North,1,$42.90 
+11/29/2016,Competitor A,473581,436689,R1285634,Supermarket North,1,$40.40 
+11/29/2016,Competitor B,315236,445921,R1285991,Supermarket North,1,$37.00 
+11/29/2016,Competitor B,653241,481459,R1285880,Supermarket West,1,$29.90 
+11/29/2016,Colgate-Palmolive,915953,484014,R1285585,Supermarket West,2,$93.40 
+11/29/2016,Competitor B,714468,490923,R1286011,Supermarket West,1,$11.40 
+11/30/2016,Competitor B,692107,25019,R1286872,Supermarket North,2,$6.80 
+11/30/2016,Competitor B,419762,27022,R1286987,Supermarket North-East,1,$32.00 
+11/30/2016,Colgate-Palmolive,926954,48576,R1286143,Supermarket West,1,$33.90 
+11/30/2016,Colgate-Palmolive,588995,163380,R1286293,Supermarket North,1,$35.80 
+11/30/2016,Competitor A,422570,416668,R1286413,Supermarket West,1,$31.90 
+11/30/2016,Competitor A,533718,471777,R1286596,Supermarket West,1,$28.50 
+11/30/2016,Competitor A,397127,471777,R1286596,Supermarket West,1,$32.90 
+11/30/2016,Colgate-Palmolive,786865,487208,R1286357,Supermarket North,1,$51.70 
+11/30/2016,Competitor A,252726,497112,R1286635,Supermarket West,1,$25.90 
+12/1/2016,Competitor B,982986,268038,R1287356,Supermarket South,1,$40.80 
+12/1/2016,Colgate-Palmolive,300035,428180,R1287117,Supermarket West,2,$93.40 
+12/2/2016,Colgate-Palmolive,669118,86693,R1287418,Supermarket North,1,$39.30 
+12/2/2016,Colgate-Palmolive,123796,234082,R1287571,Supermarket West,1,$31.30 
+12/2/2016,Colgate-Palmolive,300035,234082,R1287571,Supermarket West,1,$46.70 
+12/2/2016,Competitor A,252726,416668,R1287897,Supermarket South,1,$34.20 
+12/2/2016,Competitor A,177017,444862,R1287938,Supermarket West,2,$67.80 
+12/2/2016,Competitor B,720906,470281,R1288068,Supermarket West,2,$79.60 
+12/2/2016,Competitor B,315236,486345,R1288154,Supermarket South,1,$38.20 
+12/2/2016,Competitor B,849497,492215,R1288221,Supermarket West,1,$39.80 
+12/2/2016,Colgate-Palmolive,771567,495024,R1287690,Supermarket West,2,$69.80 
+12/3/2016,Competitor A,909225,577,R1288469,Supermarket North,1,$40.60 
+12/3/2016,Competitor A,297015,78249,R1288534,Supermarket West,2,$67.80 
+12/3/2016,Competitor B,385150,491486,R1288635,Supermarket North-East,1,$32.00 
+12/3/2016,Competitor B,269713,497773,R1288728,Supermarket West,1,$29.00 
+12/4/2016,Competitor A,249666,17630,R1289075,Supermarket North-East,1,$31.00 
+12/4/2016,Competitor A,397127,81514,R1289180,Supermarket West,1,$37.00 
+12/4/2016,Competitor A,248817,282138,R1289271,Supermarket West,1,$36.90 
+12/4/2016,Competitor A,689515,427894,R1289316,Supermarket North-East,1,$35.00 
+12/4/2016,Colgate-Palmolive,905356,462074,R1288934,Supermarket South,1,$43.90 
+12/4/2016,Colgate-Palmolive,597365,462074,R1288934,Supermarket South,1,$55.00 
+12/5/2016,Competitor B,653241,334754,R1289553,Supermarket North,1,$34.60 
+12/5/2016,Competitor B,584710,334754,R1289553,Supermarket North,1,$40.60 
+12/5/2016,Competitor A,226997,477499,R1289414,Supermarket West,2,$67.80 
+12/6/2016,Competitor B,720906,46356,R1289828,Supermarket West,1,$39.80 
+12/6/2016,Competitor B,768644,76399,R1289981,Supermarket South-West,2,$111.80 
+12/6/2016,Competitor B,422968,97879,R1290058,Supermarket North,2,$74.00 
+12/6/2016,Competitor B,714468,295590,R1290198,Supermarket North-East,1,$11.50 
+12/6/2016,Competitor B,537012,455859,R1290262,Supermarket West,3,$134.40 
+12/6/2016,Competitor B,110582,465802,R1290316,Supermarket West,1,$65.30 
+12/6/2016,Competitor B,796801,465802,R1290316,Supermarket West,1,$39.80 
+12/6/2016,Colgate-Palmolive,227633,487208,R1289752,Supermarket South,1,$55.00 
+12/6/2016,Competitor B,532182,494853,R1290487,Supermarket West,1,$29.00 
+12/7/2016,Colgate-Palmolive,762610,11463,R1290521,Supermarket West,1,$57.00 
+12/7/2016,Colgate-Palmolive,301348,271944,R1290652,Supermarket North,1,$34.00 
+12/7/2016,Competitor A,665803,421384,R1290932,Supermarket West,2,$67.80 
+12/7/2016,Colgate-Palmolive,348047,424033,R1290784,Supermarket North,1,$37.20 
+12/8/2016,Competitor B,555673,263523,R1291167,Supermarket West,1,$41.90 
+12/8/2016,Colgate-Palmolive,786865,463872,R1291259,Supermarket West,1,$46.70 
+12/8/2016,Colgate-Palmolive,762610,463872,R1291259,Supermarket West,1,$57.00 
+12/8/2016,Competitor B,583164,463876,R1291536,Supermarket South,2,$39.00 
+12/8/2016,Competitor B,583164,469812,R1291625,Supermarket West,2,$67.40 
+12/8/2016,Colgate-Palmolive,597365,492981,R1291369,Supermarket South,1,$55.00 
+12/8/2016,Competitor B,315236,494778,R1291772,Supermarket West,1,$33.80 
+12/8/2016,Colgate-Palmolive,227633,495069,R1291461,Supermarket South,1,$55.00 
+12/9/2016,Competitor A,582553,90855,R1291953,Supermarket West,1,$27.90 
+12/9/2016,Competitor B,759650,99021,R1292019,Supermarket West,1,$44.80 
+12/9/2016,Competitor B,537012,105560,R1292410,Supermarket West,1,$41.90 
+12/9/2016,Competitor B,709381,105560,R1292410,Supermarket West,4,$167.60 
+12/9/2016,Colgate-Palmolive,798288,261297,R1291860,Supermarket West,1,$34.90 
+12/9/2016,Competitor B,982986,440582,R1292137,Supermarket North-East,1,$37.90 
+12/9/2016,Competitor B,720906,440582,R1292137,Supermarket North-East,2,$75.80 
+12/9/2016,Competitor B,759650,498108,R1292249,Supermarket West,1,$44.80 
+12/9/2016,Competitor B,653241,498593,R1292335,Supermarket West,1,$29.90 
+12/9/2016,Competitor B,903052,498593,R1292335,Supermarket West,1,$29.90 
+12/10/2016,Competitor A,909225,577,R1292640,Supermarket North,1,$41.70 
+12/10/2016,Competitor B,776126,192332,R1293045,Supermarket West,1,$59.80 
+12/10/2016,Competitor A,256348,474984,R1292728,Supermarket West,1,$31.90 
+12/10/2016,Competitor B,620967,474984,R1292728,Supermarket West,1,$59.80 
+12/10/2016,Competitor A,422570,487985,R1292845,Supermarket West,2,$74.00 
+12/10/2016,Competitor A,177017,497941,R1292972,Supermarket West,1,$36.00 
+12/10/2016,Competitor B,537012,498581,R1293124,Supermarket West,4,$167.60 
+12/11/2016,Competitor B,620967,91023,R1293559,Supermarket West,1,$59.80 
+12/11/2016,Competitor B,537012,116697,R1293643,Supermarket West,1,$41.90 
+12/11/2016,Colgate-Palmolive,771567,428999,R1293435,Supermarket West,1,$34.90 
+12/11/2016,Competitor B,315236,445921,R1293712,Supermarket South,1,$38.20 
+12/12/2016,Colgate-Palmolive,863562,52079,R1293899,Supermarket South,2,$43.90 
+12/12/2016,Competitor A,978820,402349,R1294159,Supermarket North,1,$41.70 
+12/12/2016,Colgate-Palmolive,915953,484014,R1293980,Supermarket West,1,$46.70 
+12/12/2016,Competitor B,537012,491028,R1294292,Supermarket West,3,$125.70 
+12/12/2016,Colgate-Palmolive,771567,498939,R1294043,Supermarket West,1,$34.90 
+12/13/2016,Competitor A,701139,225584,R1294379,Supermarket South,1,$34.50 
+12/13/2016,Competitor B,198485,282138,R1294623,Supermarket West,1,$11.40 
+12/13/2016,Competitor B,653241,334754,R1294523,Supermarket North,1,$34.60 
+12/13/2016,Competitor B,584710,334754,R1294523,Supermarket North,1,$40.60 
+12/13/2016,Competitor B,714468,334754,R1294523,Supermarket North,1,$14.50 
+12/13/2016,Competitor A,297015,436689,R1294483,Supermarket West,1,$36.00 
+12/13/2016,Competitor B,419762,441590,R1294721,Supermarket South-West,2,$63.80 
+12/13/2016,Competitor B,359784,495318,R1294822,Supermarket West,1,$39.80 
+12/14/2016,Colgate-Palmolive,915953,133064,R1295131,Supermarket West,1,$46.70 
+12/14/2016,Competitor B,178732,346263,R1295550,Supermarket West,1,$26.10 
+12/14/2016,Competitor A,978820,456705,R1295397,Supermarket West,1,$36.90 
+12/15/2016,Colgate-Palmolive,300035,7203,R1295656,Supermarket North,1,$52.30 
+12/15/2016,Competitor B,620967,7203,R1295656,Supermarket West,1,$59.80 
+12/15/2016,Competitor B,768644,244012,R1295810,Supermarket West,1,$59.80 
+12/15/2016,Colgate-Palmolive,301348,271944,R1295717,Supermarket North,1,$34.00 
+12/16/2016,Competitor A,388827,48118,R1295988,Supermarket West,1,$27.90 
+12/16/2016,Competitor B,315236,445921,R1296259,Supermarket South,1,$38.20 
+12/16/2016,Competitor B,954518,483959,R1296117,Supermarket North,1,$37.00 
+12/16/2016,Competitor B,903052,483959,R1296117,Supermarket North,1,$34.10 
+12/16/2016,Competitor B,315236,494778,R1296381,Supermarket North,2,$74.00 
+12/16/2016,Competitor A,177017,499592,R1296025,Supermarket West,1,$36.00 
+12/17/2016,Competitor B,138108,159533,R1296515,Supermarket West,2,$130.60 
+12/17/2016,Colgate-Palmolive,597365,469617,R1296450,Supermarket West,1,$57.00 
+12/17/2016,Competitor B,359784,469617,R1296450,Supermarket West,1,$39.80 
+12/18/2016,Competitor B,269713,12044,R1296770,Supermarket North,1,$45.80 
+12/19/2016,Colgate-Palmolive,915953,11463,R1296819,Supermarket North,1,$51.70 
+12/19/2016,Competitor B,537012,492215,R1297077,Supermarket West,1,$41.90 
+12/19/2016,Colgate-Palmolive,798288,499945,R1296920,Supermarket West,1,$37.90 
+12/20/2016,Competitor B,315236,25019,R1297630,Supermarket North,1,$37.00 
+12/20/2016,Colgate-Palmolive,645430,77561,R1297112,Supermarket West,1,$46.70 
+12/20/2016,Competitor A,625804,77561,R1297112,Supermarket West,1,$26.90 
+12/20/2016,Competitor B,903052,446220,R1297566,Supermarket West,2,$59.80 
+12/20/2016,Competitor B,315236,446220,R1297566,Supermarket West,1,$33.80 
+12/20/2016,Competitor B,709381,493328,R1297778,Supermarket West,1,$41.90 
+12/20/2016,Competitor B,583164,493328,R1297778,Supermarket West,1,$33.70 
+12/20/2016,Competitor A,397127,497312,R1297369,Supermarket West,1,$32.90 
+12/20/2016,Competitor B,620967,497472,R1297872,Supermarket South,1,$65.00 
+12/20/2016,Competitor A,226997,499684,R1297476,Supermarket West,1,$36.00 
+12/21/2016,Colgate-Palmolive,926954,48576,R1297998,Supermarket West,1,$33.90 
+12/21/2016,Colgate-Palmolive,905356,108088,R1298098,Supermarket West,1,$33.90 
+12/21/2016,Competitor A,812610,153284,R1298210,Supermarket West,1,$12.00 
+12/21/2016,Competitor A,961097,433777,R1298424,Supermarket West,1,$18.60 
+12/21/2016,Competitor A,812610,500264,R1298571,Supermarket West,1,$12.00 
+12/22/2016,Competitor B,419762,22454,R1299150,Supermarket West,1,$33.80 
+12/22/2016,Competitor B,315236,22454,R1299150,Supermarket West,1,$33.80 
+12/22/2016,Competitor B,709381,138972,R1299284,Supermarket West,1,$44.80 
+12/22/2016,Competitor B,269713,138972,R1299284,Supermarket West,1,$33.70 
+12/22/2016,Competitor A,297015,427894,R1299082,Supermarket North-East,1,$35.00 
+12/22/2016,Colgate-Palmolive,915953,436689,R1298828,Supermarket North,1,$51.70 
+12/22/2016,Competitor B,369239,481131,R1299352,Supermarket West,1,$39.80 
+12/22/2016,Competitor B,178732,495318,R1299462,Supermarket West,1,$26.10 
+12/23/2016,Colgate-Palmolive,298313,52079,R1299637,Supermarket South,1,$46.90 
+12/23/2016,Competitor A,701139,52079,R1299637,Supermarket South,1,$34.50 
+12/23/2016,Colgate-Palmolive,915953,133064,R1299740,Supermarket West,1,$46.70 
+12/23/2016,Colgate-Palmolive,300035,133064,R1299740,Supermarket West,1,$46.70 
+12/23/2016,Competitor B,419762,465442,R1300174,Supermarket West,1,$33.80 
+12/23/2016,Competitor A,978820,498593,R1299929,Supermarket West,1,$36.90 
+12/23/2016,Competitor A,909225,498593,R1299929,Supermarket West,1,$36.90 
+12/23/2016,Colgate-Palmolive,863562,500575,R1299872,Supermarket West,1,$33.90 
+12/23/2016,Colgate-Palmolive,915953,500575,R1299872,Supermarket West,5,$93.40 
+12/24/2016,Colgate-Palmolive,771567,428999,R1300245,Supermarket West,2,$75.80 
+12/24/2016,Competitor A,897404,500682,R1300352,Supermarket West,1,$14.50 
+12/24/2016,Competitor A,297015,500772,R1300471,Supermarket West,2,$61.80 
+12/25/2016,Colgate-Palmolive,840328,5668,R1300519,Supermarket North,1,$33.40 
+12/25/2016,Colgate-Palmolive,905356,280012,R1300672,Supermarket West,1,$33.90 
+12/25/2016,Competitor A,249666,280012,R1300672,Supermarket West,1,$32.90 
+12/25/2016,Competitor B,269713,485522,R1300751,Supermarket West,2,$59.80 
+12/26/2016,Competitor A,199788,127301,R1300964,Supermarket South-West,1,$36.00 
+12/26/2016,Competitor A,249666,175595,R1301048,Supermarket West,1,$32.90 
+12/26/2016,Competitor B,315236,198843,R1301481,Supermarket South,1,$38.20 
+12/26/2016,Competitor A,397127,441429,R1301121,Supermarket West,1,$32.90 
+12/26/2016,Competitor B,759650,494778,R1301342,Supermarket West,2,$89.60 
+12/26/2016,Colgate-Palmolive,227633,495069,R1300836,Supermarket South,1,$55.00 
+12/26/2016,Competitor A,226997,497312,R1301285,Supermarket West,1,$30.90 
+12/27/2016,Competitor B,315236,442927,R1301925,Supermarket West,1,$33.80 
+12/27/2016,Competitor A,226997,477499,R1301651,Supermarket West,1,$30.90 
+12/27/2016,Competitor A,226997,486855,R1301785,Supermarket West,1,$30.90 
+12/27/2016,Competitor B,456255,497472,R1302034,Supermarket West,1,$61.30 
+12/28/2016,Colgate-Palmolive,798288,77583,R1302179,Supermarket West,1,$37.90 
+12/28/2016,Competitor B,419762,77583,R1302179,Supermarket West,1,$33.70 
+12/28/2016,Competitor A,533718,89736,R1302377,Supermarket West,2,$57.00 
+12/28/2016,Colgate-Palmolive,771567,128005,R1302273,Supermarket West,1,$37.90 
+12/28/2016,Competitor B,198485,347116,R1302443,Supermarket West,1,$11.40 
+12/29/2016,Competitor B,422968,84148,R1302711,Supermarket North,2,$74.00 
+12/29/2016,Competitor B,583164,84148,R1302711,Supermarket North,1,$39.50 
+12/29/2016,Competitor B,419762,192332,R1302882,Supermarket West,1,$33.70 
+12/29/2016,Competitor A,177017,444862,R1302514,Supermarket West,1,$30.90 
+12/29/2016,Competitor B,653241,481459,R1302689,Supermarket North,1,$34.60 
+12/29/2016,Competitor B,537012,501548,R1302956,Supermarket West,1,$44.80 
+12/30/2016,Colgate-Palmolive,915953,133064,R1303057,Supermarket West,1,$46.70 
+12/30/2016,Colgate-Palmolive,300035,133064,R1303057,Supermarket West,1,$46.70 
+12/30/2016,Competitor B,954518,483959,R1303159,Supermarket North,1,$37.00 
+12/30/2016,Competitor B,315236,483959,R1303159,Supermarket North,1,$37.00 
+12/31/2016,Competitor B,537012,281673,R1303451,Supermarket West,1,$44.80 
+12/31/2016,Competitor A,497641,486770,R1303542,Supermarket West,1,$7.10 
+1/1/2017,Competitor A,473581,433777,R1303779,Supermarket West,2,$24.00 
+1/1/2017,Competitor B,138108,442057,R1303876,Supermarket West,1,$65.30 
+1/2/2017,Competitor A,422570,48663,R1304268,Supermarket North,1,$40.40 
+1/2/2017,Competitor B,584710,48663,R1304268,Supermarket North,2,$81.20 
+1/2/2017,Competitor B,720906,48663,R1304268,Supermarket North,1,$44.60 
+1/2/2017,Colgate-Palmolive,300035,140833,R1304022,Supermarket West,1,$46.70 
+1/2/2017,Competitor A,297015,261297,R1304369,Supermarket West,1,$30.90 
+1/2/2017,Competitor B,419762,375485,R1304157,Supermarket West,1,$33.70 
+1/3/2017,Colgate-Palmolive,905356,11463,R1304467,Supermarket North,1,$32.90 
+1/3/2017,Competitor B,855059,93733,R1304696,Supermarket West,1,$61.30 
+1/3/2017,Competitor B,198485,93733,R1304696,Supermarket West,2,$22.80 
+1/3/2017,Competitor B,796801,346263,R1304751,Supermarket West,1,$39.80 
+1/3/2017,Competitor B,419762,424033,R1304857,Supermarket West,2,$67.40 
+1/3/2017,Competitor B,315236,494778,R1304959,Supermarket North,1,$37.00 
+1/4/2017,Competitor B,315236,658,R1305718,Supermarket South-West,1,$31.90 
+1/4/2017,Competitor A,497641,141679,R1305370,Supermarket West,1,$7.10 
+1/4/2017,Competitor A,812610,141679,R1305370,Supermarket West,1,$16.00 
+1/4/2017,Competitor A,249666,141679,R1305370,Supermarket West,1,$37.00 
+1/4/2017,Competitor A,909225,233267,R1305493,Supermarket West,1,$36.90 
+1/4/2017,Competitor B,653241,334754,R1305517,Supermarket West,1,$29.90 
+1/4/2017,Competitor B,903052,334754,R1305517,Supermarket West,1,$29.90 
+1/4/2017,Competitor B,855059,351372,R1305642,Supermarket West,1,$61.30 
+1/4/2017,Colgate-Palmolive,905356,441080,R1305195,Supermarket West,1,$33.90 
+1/5/2017,Competitor A,226997,89736,R1306298,Supermarket West,2,$30.90 
+1/5/2017,Colgate-Palmolive,863562,128246,R1305928,Supermarket West,1,$39.90 
+1/5/2017,Competitor B,903052,453084,R1306622,Supermarket North,1,$34.60 
+1/5/2017,Colgate-Palmolive,597365,462074,R1306019,Supermarket North,1,$55.00 
+1/5/2017,Colgate-Palmolive,330691,499658,R1306125,Supermarket North,1,$37.20 
+1/5/2017,Competitor A,582553,502753,R1306490,Supermarket West,1,$27.90 
+1/6/2017,Colgate-Palmolive,786865,8416,R1306896,Supermarket North,1,$51.70 
+1/6/2017,Competitor A,701139,353629,R1307025,Supermarket South,1,$34.50 
+1/6/2017,Colgate-Palmolive,597365,460465,R1306923,Supermarket North,1,$55.00 
+1/6/2017,Competitor B,620967,499930,R1307160,Supermarket West,2,$122.60 
+1/7/2017,Competitor B,695661,435383,R1307371,Supermarket West,1,$65.30 
+1/7/2017,Competitor B,419762,455859,R1307639,Supermarket West,1,$33.80 
+1/7/2017,Competitor B,537012,455859,R1307639,Supermarket West,2,$85.80 
+1/7/2017,Competitor B,954518,458247,R1307456,Supermarket West,1,$33.70 
+1/7/2017,Colgate-Palmolive,645430,477201,R1307293,Supermarket West,1,$64.20 
+1/7/2017,Competitor B,583164,477201,R1307293,Supermarket West,1,$33.70 
+1/8/2017,Competitor B,768644,19545,R1308045,Supermarket West,1,$61.30 
+1/8/2017,Colgate-Palmolive,863562,428999,R1307886,Supermarket West,2,$67.80 
+1/8/2017,Competitor A,701139,489670,R1307958,Supermarket South,1,$34.50 
+1/8/2017,Competitor B,709381,491486,R1308291,Supermarket West,2,$85.80 
+1/9/2017,Competitor B,198485,25019,R1308873,Supermarket South,6,$28.00 
+1/9/2017,Competitor A,249666,175595,R1308518,Supermarket West,1,$37.00 
+1/9/2017,Competitor B,359784,175595,R1308518,Supermarket West,1,$39.80 
+1/9/2017,Competitor B,537012,420381,R1308977,Supermarket West,2,$85.80 
+1/9/2017,Colgate-Palmolive,915953,487208,R1308357,Supermarket North,1,$51.70 
+1/9/2017,Competitor B,555673,490838,R1308725,Supermarket West,2,$85.80 
+1/9/2017,Colgate-Palmolive,227633,495069,R1308488,Supermarket South,1,$55.00 
+1/9/2017,Competitor A,789157,503430,R1308674,Supermarket West,1,$28.50 
+1/9/2017,Competitor A,422570,503430,R1308674,Supermarket West,1,$37.00 
+1/10/2017,Competitor A,628858,5160,R1309246,Supermarket West,1,$31.00 
+1/10/2017,Competitor A,166761,116363,R1309314,Supermarket West,1,$27.80 
+1/10/2017,Competitor B,653241,334754,R1309456,Supermarket North,1,$34.60 
+1/10/2017,Colgate-Palmolive,915953,436689,R1309040,Supermarket North,1,$51.70 
+1/10/2017,Colgate-Palmolive,905356,466652,R1309181,Supermarket North,1,$34.10 
+1/11/2017,Colgate-Palmolive,669118,261307,R1309576,Supermarket West,2,$105.40 
+1/12/2017,Competitor B,403498,487131,R1309975,Supermarket North-West,2,$125.80 
+1/12/2017,Competitor B,385150,493328,R1310098,Supermarket West,4,$134.80 
+1/13/2017,Competitor B,720906,46356,R1310194,Supermarket West,4,$159.20 
+1/14/2017,Competitor B,198485,504083,R1310389,Supermarket West,1,$11.40 
+1/15/2017,Competitor A,477783,38039,R1310516,Supermarket South-West,1,$34.90 
+1/15/2017,Competitor A,812610,45678,R1310691,Supermarket West,1,$16.00 
+1/15/2017,Competitor B,315236,445921,R1311010,Supermarket South,1,$38.20 
+1/15/2017,Competitor A,164377,474406,R1310775,Supermarket West,1,$11.80 
+1/15/2017,Colgate-Palmolive,301348,477201,R1310488,Supermarket South,1,$42.00 
+1/15/2017,Competitor B,359784,495318,R1311145,Supermarket West,1,$39.80 
+1/15/2017,Competitor B,620967,497472,R1311234,Supermarket West,1,$59.90 
+1/15/2017,Competitor A,812610,504202,R1310829,Supermarket West,2,$32.00 
+1/15/2017,Competitor A,297015,504202,R1310829,Supermarket West,2,$72.00 
+1/15/2017,Competitor B,714468,504202,R1310829,Supermarket West,1,$11.40 
+1/16/2017,Competitor A,770544,2949,R1311559,Supermarket West,2,$57.00 
+1/16/2017,Colgate-Palmolive,798288,42755,R1311347,Supermarket West,1,$37.90 
+1/16/2017,Competitor B,537012,205412,R1312249,Supermarket South,1,$62.60 
+1/16/2017,Competitor B,714468,265324,R1312345,Supermarket South,1,$14.00 
+1/16/2017,Colgate-Palmolive,762610,265820,R1311478,Supermarket West,1,$43.60 
+1/16/2017,Competitor A,166761,453694,R1311759,Supermarket South,3,$102.60 
+1/16/2017,Competitor A,422570,489670,R1311877,Supermarket North-East,1,$31.00 
+1/16/2017,Competitor B,903052,490595,R1312117,Supermarket North,1,$34.10 
+1/16/2017,Competitor A,226997,497312,R1311936,Supermarket South-West,2,$69.80 
+1/16/2017,Competitor A,388827,500242,R1312016,Supermarket West,2,$55.80 
+1/17/2017,Competitor B,620967,418,R1313033,Supermarket West,1,$59.90 
+1/17/2017,Competitor A,789157,8416,R1312499,Supermarket West,1,$28.50 
+1/17/2017,Competitor B,419762,17379,R1313169,Supermarket West,2,$67.60 
+1/17/2017,Competitor B,110582,17379,R1313169,Supermarket West,1,$65.30 
+1/17/2017,Competitor B,198485,22104,R1313242,Supermarket North,1,$14.50 
+1/17/2017,Competitor B,583164,315375,R1312836,Supermarket North,2,$85.80 
+1/17/2017,Competitor B,584710,334754,R1312915,Supermarket North-East,1,$37.90 
+1/17/2017,Competitor B,419762,334754,R1312915,Supermarket North-East,1,$32.00 
+1/17/2017,Competitor B,714468,334754,R1312915,Supermarket North-East,1,$14.00 
+1/17/2017,Competitor B,419762,441590,R1313467,Supermarket South-West,2,$61.80 
+1/17/2017,Competitor A,429081,460465,R1312535,Supermarket West,1,$5.50 
+1/17/2017,Competitor B,138108,462993,R1313543,Supermarket West,1,$65.30 
+1/17/2017,Competitor A,936450,490030,R1312615,Supermarket West,1,$27.90 
+1/17/2017,Competitor B,537012,504649,R1313731,Supermarket West,1,$42.90 
+1/18/2017,Competitor B,456255,32908,R1314160,Supermarket South-West,1,$55.90 
+1/18/2017,Competitor B,796801,61197,R1314259,Supermarket North,1,$44.00 
+1/18/2017,Colgate-Palmolive,915953,272240,R1313832,Supermarket West,3,$203.40 
+1/18/2017,Competitor B,419762,424033,R1314345,Supermarket West,2,$67.40 
+1/18/2017,Competitor A,665803,504395,R1314087,Supermarket West,1,$36.00 
+1/19/2017,Competitor B,403498,76399,R1314612,Supermarket South-West,3,$167.70 
+1/19/2017,Competitor B,390602,494778,R1314748,Supermarket North-East,1,$32.00 
+1/19/2017,Competitor B,269713,494853,R1314852,Supermarket West,1,$33.70 
+1/19/2017,Competitor B,532182,494853,R1314852,Supermarket West,1,$33.70 
+1/19/2017,Competitor A,948610,498593,R1314566,Supermarket West,1,$42.90 
+1/19/2017,Competitor B,390602,504800,R1314989,Supermarket North-West,1,$35.50 
+1/19/2017,Competitor B,588080,504889,R1315033,Supermarket West,1,$21.10 
+1/20/2017,Competitor A,161747,44212,R1315573,Supermarket West,1,$5.50 
+1/20/2017,Colgate-Palmolive,298313,206158,R1315127,Supermarket West,1,$37.90 
+1/20/2017,Colgate-Palmolive,506459,416668,R1315228,Supermarket South,1,$42.00 
+1/20/2017,Colgate-Palmolive,863562,428999,R1315366,Supermarket West,2,$33.90 
+1/20/2017,Colgate-Palmolive,915953,487208,R1315458,Supermarket North,2,$103.40 
+1/20/2017,Competitor B,537012,492215,R1315679,Supermarket West,1,$44.80 
+1/21/2017,Competitor B,315236,93600,R1316330,Supermarket West,1,$33.80 
+1/21/2017,Competitor B,714468,379399,R1316417,Supermarket South,2,$28.00 
+1/21/2017,Competitor A,468800,471347,R1316182,Supermarket West,1,$42.90 
+1/21/2017,Colgate-Palmolive,771567,501105,R1315778,Supermarket West,1,$37.90 
+1/21/2017,Colgate-Palmolive,905356,505127,R1315841,Supermarket West,2,$67.80 
+1/22/2017,Competitor B,456255,32908,R1316823,Supermarket South-West,1,$55.90 
+1/22/2017,Colgate-Palmolive,905356,93487,R1316597,Supermarket West,1,$33.90 
+1/22/2017,Competitor B,584710,93487,R1316597,Supermarket West,1,$39.80 
+1/22/2017,Competitor A,226997,504101,R1316793,Supermarket West,1,$36.00 
+1/22/2017,Competitor A,297015,504101,R1316793,Supermarket West,1,$36.00 
+1/23/2017,Competitor A,428061,48118,R1317170,Supermarket West,1,$14.50 
+1/23/2017,Competitor B,720906,64983,R1317382,Supermarket North-East,1,$37.90 
+1/23/2017,Competitor B,954518,147715,R1317439,Supermarket West,1,$33.80 
+1/23/2017,Competitor B,709381,239109,R1317674,Supermarket West,2,$89.60 
+1/23/2017,Competitor B,709381,259985,R1317725,Supermarket West,1,$44.80 
+1/23/2017,Colgate-Palmolive,348047,377222,R1317060,Supermarket North,1,$37.20 
+1/23/2017,Competitor A,770544,491486,R1317286,Supermarket West,1,$28.50 
+1/23/2017,Competitor A,665803,491486,R1317286,Supermarket West,1,$36.00 
+1/23/2017,Competitor B,198485,497472,R1317858,Supermarket West,1,$9.90 
+1/24/2017,Competitor B,315236,21692,R1319182,Supermarket North,1,$37.00 
+1/24/2017,Competitor A,252726,287448,R1318350,Supermarket West,3,$80.10 
+1/24/2017,Competitor A,252726,289368,R1318487,Supermarket West,1,$26.70 
+1/24/2017,Competitor A,422570,416668,R1318560,Supermarket South,1,$34.50 
+1/24/2017,Colgate-Palmolive,915953,436689,R1318160,Supermarket North,1,$51.70 
+1/24/2017,Competitor B,315236,445921,R1319295,Supermarket South,1,$38.20 
+1/24/2017,Competitor A,297015,493660,R1318613,Supermarket West,1,$36.00 
+1/24/2017,Competitor B,178732,495318,R1319323,Supermarket West,1,$26.10 
+1/24/2017,Colgate-Palmolive,677851,504864,R1318260,Supermarket South-West,2,$71.80 
+1/24/2017,Colgate-Palmolive,897047,504864,R1318260,Supermarket South-West,1,$33.00 
+1/24/2017,Competitor A,113733,504864,R1318260,Supermarket South-West,1,$27.90 
+1/24/2017,Competitor A,582553,504864,R1318260,Supermarket South-West,1,$27.90 
+1/24/2017,Competitor A,297015,504864,R1318260,Supermarket South-West,1,$34.90 
+1/24/2017,Competitor B,520594,504864,R1318260,Supermarket South-West,2,$39.80 
+1/24/2017,Competitor A,625804,504888,R1318756,Supermarket West,1,$26.70 
+1/24/2017,Competitor B,954518,505744,R1318993,Supermarket North,1,$37.00 
+1/24/2017,Competitor B,954518,505789,R1319075,Supermarket North,1,$37.00 
+1/25/2017,Competitor B,732190,5057,R1319854,Supermarket South,1,$65.00 
+1/25/2017,Colgate-Palmolive,905356,93724,R1319584,Supermarket North,1,$34.10 
+1/25/2017,Colgate-Palmolive,762610,93724,R1319584,Supermarket North,1,$55.00 
+1/25/2017,Competitor B,390602,212633,R1320056,Supermarket West,1,$38.10 
+1/25/2017,Competitor B,732190,315804,R1319929,Supermarket South,2,$65.00 
+1/25/2017,Competitor B,776126,315804,R1319929,Supermarket South,1,$65.00 
+1/25/2017,Competitor B,315236,494778,R1320165,Supermarket North,1,$37.00 
+1/25/2017,Competitor A,226997,497312,R1319772,Supermarket South-West,2,$69.80 
+1/26/2017,Competitor B,620967,32908,R1320449,Supermarket South,1,$65.00 
+1/26/2017,Competitor B,709381,48307,R1320535,Supermarket West,3,$134.40 
+1/26/2017,Competitor A,252579,468394,R1320261,Supermarket North-East,1,$51.90 
+1/26/2017,Competitor B,537012,492215,R1320610,Supermarket South,1,$62.60 
+1/26/2017,Competitor B,709381,502635,R1320727,Supermarket West,2,$89.60 
+1/26/2017,Competitor B,422968,504889,R1320837,Supermarket North-East,1,$32.00 
+1/27/2017,Colgate-Palmolive,798288,168550,R1320937,Supermarket West,1,$37.00 
+1/27/2017,Colgate-Palmolive,597365,168550,R1320937,Supermarket West,1,$43.60 
+1/27/2017,Colgate-Palmolive,348047,377222,R1321067,Supermarket North,1,$37.20 
+1/27/2017,Competitor B,419762,441590,R1321428,Supermarket South-West,2,$61.80 
+1/27/2017,Competitor B,903052,453084,R1321353,Supermarket North,1,$34.60 
+1/27/2017,Competitor B,584710,453084,R1321353,Supermarket North,1,$40.60 
+1/27/2017,Competitor A,936450,490030,R1321250,Supermarket West,1,$27.90 
+1/28/2017,Competitor B,537012,455859,R1321663,Supermarket West,1,$42.00 
+1/28/2017,Competitor A,113733,506499,R1321574,Supermarket West,1,$27.90 
+1/29/2017,Competitor B,720906,46356,R1321991,Supermarket West,2,$79.60 
+1/29/2017,Colgate-Palmolive,897047,205412,R1321742,Supermarket South,1,$52.20 
+1/29/2017,Competitor A,297015,477499,R1321822,Supermarket West,1,$36.00 
+1/29/2017,Competitor B,390602,494778,R1322263,Supermarket North-East,1,$32.00 
+1/29/2017,Competitor B,759650,504665,R1322010,Supermarket West,1,$44.80 
+1/30/2017,Competitor B,714468,54276,R1323015,Supermarket West,1,$9.90 
+1/30/2017,Competitor B,776126,250438,R1322884,Supermarket South,1,$65.00 
+1/30/2017,Colgate-Palmolive,905356,441080,R1322688,Supermarket West,1,$39.90 
+1/30/2017,Competitor B,312964,499559,R1323177,Supermarket South-West,2,$8.60 
+1/30/2017,Competitor B,768644,503342,R1322988,Supermarket North,1,$71.50 
+1/31/2017,Colgate-Palmolive,915953,133064,R1323234,Supermarket West,2,$78.00 
+1/31/2017,Colgate-Palmolive,300035,133064,R1323234,Supermarket West,1,$39.00 
+1/31/2017,Competitor B,714468,133064,R1323234,Supermarket West,1,$9.90 
+1/31/2017,Competitor B,879915,281673,R1323520,Supermarket West,1,$6.00 
+1/31/2017,Competitor B,776126,371377,R1323624,Supermarket West,2,$119.80 
+1/31/2017,Colgate-Palmolive,863562,428999,R1323396,Supermarket West,1,$33.90 
+1/31/2017,Competitor A,936450,490030,R1323474,Supermarket West,1,$27.90 
+2/1/2017,Colgate-Palmolive,926954,48576,R1323822,Supermarket West,2,$79.80 
+2/1/2017,Competitor B,555673,150073,R1324021,Supermarket West,1,$42.90 
+2/1/2017,Competitor B,591094,363669,R1324132,Supermarket South-West,2,$8.60 
+2/1/2017,Competitor B,315236,363669,R1324132,Supermarket South-West,2,$61.80 
+2/1/2017,Competitor B,855059,480116,R1324219,Supermarket West,2,$119.80 
+2/1/2017,Competitor B,732190,480116,R1324219,Supermarket West,1,$59.90 
+2/1/2017,Colgate-Palmolive,786865,506003,R1323979,Supermarket West,1,$39.00 
+2/2/2017,Competitor B,269713,1921,R1324745,Supermarket North,1,$45.80 
+2/2/2017,Colgate-Palmolive,762610,5160,R1324387,Supermarket West,1,$43.60 
+2/2/2017,Competitor B,537012,97879,R1324847,Supermarket West,1,$42.90 
+2/2/2017,Competitor B,359784,97879,R1324847,Supermarket West,1,$39.80 
+2/2/2017,Competitor A,252579,103776,R1324569,Supermarket West,1,$42.90 
+2/2/2017,Competitor A,789157,395660,R1324652,Supermarket West,1,$28.50 
+2/2/2017,Competitor A,533718,395660,R1324652,Supermarket West,1,$28.50 
+2/2/2017,Competitor A,137087,395660,R1324652,Supermarket West,1,$28.50 
+2/2/2017,Competitor B,419762,441590,R1324937,Supermarket West,1,$33.80 
+2/2/2017,Competitor B,537012,455859,R1325057,Supermarket West,2,$85.80 
+2/2/2017,Colgate-Palmolive,196390,469656,R1324489,Supermarket West,2,$105.40 
+2/3/2017,Colgate-Palmolive,863562,11851,R1325188,Supermarket South-West,2,$63.80 
+2/3/2017,Colgate-Palmolive,915953,124027,R1325241,Supermarket West,2,$78.00 
+2/3/2017,Colgate-Palmolive,915953,428593,R1325366,Supermarket West,1,$39.00 
+2/3/2017,Competitor A,177017,491486,R1325465,Supermarket North-East,1,$37.00 
+2/3/2017,Competitor B,849497,506940,R1325587,Supermarket West,1,$39.80 
+2/4/2017,Competitor A,419869,2016,R1325641,Supermarket West,1,$16.00 
+2/4/2017,Competitor B,620967,32908,R1326086,Supermarket South-West,2,$111.80 
+2/4/2017,Competitor B,720906,46356,R1325720,Supermarket North-East,3,$113.70 
+2/4/2017,Competitor B,849497,334754,R1325827,Supermarket North-East,1,$37.90 
+2/4/2017,Competitor B,269713,401423,R1326155,Supermarket South,1,$39.00 
+2/4/2017,Competitor B,855059,462993,R1325930,Supermarket West,1,$59.90 
+2/5/2017,Competitor B,537012,465339,R1326933,Supermarket West,1,$42.90 
+2/5/2017,Competitor B,768644,483722,R1326735,Supermarket North,1,$67.70 
+2/5/2017,Competitor B,419762,496554,R1327077,Supermarket West,1,$33.70 
+2/5/2017,Competitor B,555673,501730,R1326889,Supermarket West,1,$42.90 
+2/5/2017,Competitor A,297015,507006,R1326590,Supermarket West,2,$61.80 
+2/5/2017,Colgate-Palmolive,905356,507808,R1326382,Supermarket North-East,1,$30.00 
+2/6/2017,Competitor B,390602,291825,R1327619,Supermarket South-West,1,$30.90 
+2/6/2017,Colgate-Palmolive,786865,416668,R1327168,Supermarket West,2,$78.00 
+2/6/2017,Competitor A,665803,416668,R1327168,Supermarket West,1,$36.00 
+2/6/2017,Competitor A,252579,493913,R1327316,Supermarket West,2,$85.80 
+2/7/2017,Competitor B,720906,244012,R1328081,Supermarket West,1,$39.80 
+2/7/2017,Colgate-Palmolive,915953,272240,R1327761,Supermarket West,4,$156.00 
+2/7/2017,Competitor B,768644,381654,R1328155,Supermarket West,1,$59.90 
+2/7/2017,Competitor B,139932,462993,R1328236,Supermarket South,1,$65.00 
+2/7/2017,Competitor B,198485,495069,R1328390,Supermarket South,1,$14.00 
+2/7/2017,Competitor A,388827,500242,R1327881,Supermarket West,3,$83.70 
+2/7/2017,Competitor A,297015,503447,R1327918,Supermarket West,1,$36.00 
+2/8/2017,Colgate-Palmolive,762610,5160,R1328476,Supermarket West,1,$43.60 
+2/8/2017,Colgate-Palmolive,926954,52079,R1328577,Supermarket South,3,$131.70 
+2/8/2017,Colgate-Palmolive,298313,52079,R1328577,Supermarket South,1,$46.90 
+2/8/2017,Competitor B,954518,97879,R1328872,Supermarket West,1,$33.70 
+2/8/2017,Competitor B,591094,97879,R1328872,Supermarket West,4,$24.00 
+2/8/2017,Competitor B,315236,97879,R1328872,Supermarket West,1,$33.80 
+2/8/2017,Colgate-Palmolive,301348,465442,R1328658,Supermarket West,1,$29.00 
+2/8/2017,Colgate-Palmolive,301348,469656,R1328738,Supermarket West,2,$58.00 
+2/8/2017,Competitor B,178732,495318,R1329077,Supermarket West,1,$26.10 
+2/8/2017,Competitor B,359784,495318,R1329077,Supermarket West,1,$39.80 
+2/8/2017,Competitor B,537012,508313,R1329136,Supermarket West,4,$171.60 
+2/9/2017,Competitor B,720906,46356,R1329520,Supermarket West,1,$39.80 
+2/9/2017,Competitor A,137087,69643,R1329320,Supermarket South-West,1,$25.90 
+2/9/2017,Competitor B,269713,401423,R1329715,Supermarket South,1,$39.00 
+2/9/2017,Colgate-Palmolive,597365,460465,R1329279,Supermarket West,1,$43.60 
+2/9/2017,Competitor A,177017,491486,R1329488,Supermarket North-East,3,$111.00 
+2/10/2017,Competitor B,720906,39022,R1330165,Supermarket West,1,$39.80 
+2/10/2017,Colgate-Palmolive,899488,455859,R1329844,Supermarket North,1,$37.20 
+2/10/2017,Competitor B,759650,499559,R1330278,Supermarket South,1,$59.90 
+2/11/2017,Competitor B,584710,48663,R1330357,Supermarket North,2,$81.20 
+2/11/2017,Competitor B,720906,48663,R1330357,Supermarket North,2,$89.20 
+2/12/2017,Colgate-Palmolive,863562,14971,R1330636,Supermarket West,1,$33.90 
+2/12/2017,Competitor B,115927,14971,R1330636,Supermarket West,1,$29.90 
+2/12/2017,Colgate-Palmolive,597365,93487,R1330714,Supermarket West,1,$43.60 
+2/12/2017,Competitor A,497641,141679,R1331427,Supermarket West,1,$5.50 
+2/12/2017,Competitor A,249666,141679,R1331427,Supermarket West,1,$30.90 
+2/12/2017,Competitor B,315236,363669,R1331667,Supermarket South,1,$38.20 
+2/12/2017,Colgate-Palmolive,926954,428180,R1331049,Supermarket West,1,$39.90 
+2/12/2017,Colgate-Palmolive,348047,457781,R1331129,Supermarket North,1,$37.20 
+2/12/2017,Colgate-Palmolive,863562,504888,R1331214,Supermarket West,1,$33.90 
+2/12/2017,Competitor B,359784,507640,R1331713,Supermarket North,1,$40.60 
+2/13/2017,Competitor B,640845,334754,R1331932,Supermarket North-East,1,$37.90 
+2/13/2017,Competitor B,584710,334754,R1331932,Supermarket North-East,1,$37.90 
+2/13/2017,Competitor B,555673,501730,R1332068,Supermarket West,1,$42.90 
+2/13/2017,Competitor B,954518,502491,R1332136,Supermarket North-East,1,$32.00 
+2/13/2017,Competitor B,456255,507374,R1332229,Supermarket West,1,$59.90 
+2/14/2017,Competitor B,720906,11021,R1332858,Supermarket North-East,1,$37.90 
+2/14/2017,Competitor B,620967,32908,R1333057,Supermarket South-West,2,$111.80 
+2/14/2017,Colgate-Palmolive,123796,262871,R1332448,Supermarket West,1,$31.30 
+2/14/2017,Colgate-Palmolive,915953,272240,R1332548,Supermarket West,2,$93.40 
+2/14/2017,Competitor B,954518,483959,R1332921,Supermarket North,2,$74.00 
+2/14/2017,Competitor B,390602,494778,R1333279,Supermarket North-East,1,$32.00 
+2/14/2017,Colgate-Palmolive,348047,503012,R1332698,Supermarket North-West,1,$30.90 
+2/15/2017,Colgate-Palmolive,300035,133064,R1333329,Supermarket West,1,$46.70 
+2/15/2017,Competitor B,584710,211936,R1333532,Supermarket West,1,$39.80 
+2/15/2017,Competitor B,720906,211936,R1333532,Supermarket West,1,$39.80 
+2/15/2017,Colgate-Palmolive,905356,462074,R1333474,Supermarket West,1,$39.90 
+2/15/2017,Colgate-Palmolive,597365,462074,R1333474,Supermarket West,1,$43.60 
+2/15/2017,Competitor B,532182,494853,R1333635,Supermarket West,3,$89.70 
+2/15/2017,Competitor B,709381,509423,R1333777,Supermarket West,4,$171.60 
+2/16/2017,Competitor B,720906,46356,R1334249,Supermarket West,2,$79.60 
+2/16/2017,Competitor B,954518,100843,R1334368,Supermarket West,1,$33.80 
+2/16/2017,Colgate-Palmolive,300035,104934,R1333848,Supermarket West,1,$46.70 
+2/16/2017,Competitor B,903052,104934,R1333848,Supermarket West,1,$29.90 
+2/16/2017,Colgate-Palmolive,645430,150073,R1333947,Supermarket West,1,$46.70 
+2/16/2017,Colgate-Palmolive,786865,271944,R1334024,Supermarket North,1,$51.70 
+2/16/2017,Competitor B,555673,490838,R1334444,Supermarket West,1,$44.80 
+2/16/2017,Competitor B,198485,491486,R1334660,Supermarket West,1,$11.40 
+2/16/2017,Competitor A,297015,508584,R1334169,Supermarket West,1,$32.00 
+2/17/2017,Competitor B,982986,577,R1335112,Supermarket South,2,$81.60 
+2/17/2017,Competitor B,139932,577,R1335112,Supermarket South,2,$130.00 
+2/17/2017,Competitor A,297015,78249,R1334846,Supermarket West,3,$96.00 
+2/17/2017,Competitor A,249666,160206,R1334992,Supermarket West,1,$30.90 
+2/17/2017,Competitor A,252579,160206,R1334992,Supermarket West,1,$42.90 
+2/17/2017,Competitor B,269713,160206,R1334992,Supermarket West,2,$57.20 
+2/17/2017,Competitor A,322245,217412,R1335055,Supermarket West,1,$27.80 
+2/17/2017,Colgate-Palmolive,301348,469656,R1334790,Supermarket West,1,$43.20 
+2/17/2017,Competitor B,796801,503342,R1335366,Supermarket North,1,$44.60 
+2/18/2017,Competitor A,137087,69654,R1335751,Supermarket West,1,$28.50 
+2/18/2017,Competitor A,701139,128005,R1335842,Supermarket West,1,$31.90 
+2/18/2017,Competitor A,978820,401423,R1335957,Supermarket North,1,$41.70 
+2/18/2017,Colgate-Palmolive,300035,443844,R1335436,Supermarket West,2,$93.40 
+2/18/2017,Colgate-Palmolive,905356,449543,R1335521,Supermarket West,1,$39.90 
+2/18/2017,Competitor A,137087,449543,R1335521,Supermarket West,1,$28.50 
+2/18/2017,Competitor B,269713,449543,R1335521,Supermarket West,1,$28.60 
+2/18/2017,Competitor B,385150,493328,R1336036,Supermarket South-West,2,$61.80 
+2/18/2017,Colgate-Palmolive,227633,495069,R1335678,Supermarket South,1,$55.00 
+2/19/2017,Competitor A,177017,7964,R1336324,Supermarket West,2,$62.00 
+2/19/2017,Competitor A,297015,151786,R1336462,Supermarket West,2,$62.00 
+2/19/2017,Competitor A,422570,296154,R1336525,Supermarket West,1,$30.90 
+2/19/2017,Competitor A,936450,417935,R1336657,Supermarket West,1,$26.90 
+2/19/2017,Competitor B,537012,455859,R1337054,Supermarket West,4,$179.20 
+2/19/2017,Competitor B,269713,470640,R1337119,Supermarket West,4,$114.40 
+2/19/2017,Competitor B,583164,479754,R1337221,Supermarket North-East,2,$59.80 
+2/19/2017,Competitor B,178732,495318,R1337342,Supermarket West,1,$26.10 
+2/19/2017,Competitor B,359784,495318,R1337342,Supermarket West,1,$39.80 
+2/19/2017,Competitor A,850788,504386,R1336851,Supermarket West,1,$26.90 
+2/19/2017,Colgate-Palmolive,104255,504889,R1336115,Supermarket West,1,$38.90 
+2/19/2017,Colgate-Palmolive,786865,507677,R1336237,Supermarket North,1,$51.70 
+2/19/2017,Colgate-Palmolive,300035,507677,R1336237,Supermarket North,1,$52.30 
+2/20/2017,Competitor B,555673,150073,R1338073,Supermarket West,2,$89.60 
+2/20/2017,Colgate-Palmolive,300035,192014,R1337555,Supermarket North-East,1,$50.00 
+2/20/2017,Competitor B,768644,244012,R1338115,Supermarket West,1,$59.90 
+2/20/2017,Competitor B,385150,279932,R1338224,Supermarket North-East,1,$32.00 
+2/20/2017,Colgate-Palmolive,915953,424033,R1337622,Supermarket West,1,$46.70 
+2/20/2017,Competitor A,226997,453694,R1337761,Supermarket West,3,$96.00 
+2/20/2017,Competitor A,473581,467286,R1337866,Supermarket North,1,$40.40 
+2/20/2017,Competitor B,796801,467286,R1337866,Supermarket North,1,$44.60 
+2/20/2017,Competitor A,625804,473000,R1337987,Supermarket West,1,$31.00 
+2/20/2017,Competitor B,312964,499559,R1338314,Supermarket South-West,1,$4.30 
+2/20/2017,Competitor B,419762,510195,R1338569,Supermarket South-West,1,$30.90 
+2/21/2017,Competitor B,768644,76399,R1339369,Supermarket South-West,2,$111.80 
+2/21/2017,Competitor B,121093,151078,R1339461,Supermarket West,2,$130.60 
+2/21/2017,Competitor B,138108,151078,R1339461,Supermarket West,2,$130.60 
+2/21/2017,Colgate-Palmolive,298313,234082,R1338748,Supermarket West,1,$37.90 
+2/21/2017,Competitor B,776126,234082,R1338748,Supermarket West,1,$59.90 
+2/21/2017,Colgate-Palmolive,915953,259845,R1338898,Supermarket North,1,$51.70 
+2/21/2017,Colgate-Palmolive,301348,291825,R1339098,Supermarket West,1,$43.20 
+2/21/2017,Competitor B,315236,445921,R1339556,Supermarket South,1,$38.20 
+2/22/2017,Competitor B,796801,103,R1340490,Supermarket North,1,$44.60 
+2/22/2017,Competitor B,720906,46356,R1340368,Supermarket West,5,$119.40 
+2/22/2017,Competitor A,252579,103776,R1340010,Supermarket West,1,$42.90 
+2/22/2017,Competitor A,850788,104934,R1340180,Supermarket West,1,$25.50 
+2/22/2017,Competitor B,555673,104934,R1340180,Supermarket West,1,$43.00 
+2/22/2017,Competitor B,178732,146289,R1340555,Supermarket West,1,$26.10 
+2/22/2017,Colgate-Palmolive,897047,205412,R1339789,Supermarket South,1,$52.20 
+2/22/2017,Competitor A,297015,434214,R1340256,Supermarket West,1,$32.00 
+2/22/2017,Competitor B,796801,510522,R1340758,Supermarket North,1,$40.60 
+2/23/2017,Competitor B,620967,32908,R1342515,Supermarket South-West,4,$167.70 
+2/23/2017,Competitor B,555673,42183,R1342174,Supermarket West,1,$43.00 
+2/23/2017,Competitor B,312964,46517,R1342627,Supermarket South-West,2,$8.60 
+2/23/2017,Competitor A,582553,205594,R1341010,Supermarket West,1,$26.90 
+2/23/2017,Competitor B,732190,211936,R1342274,Supermarket West,1,$59.90 
+2/23/2017,Competitor B,880952,216177,R1342777,Supermarket West,4,$172.00 
+2/23/2017,Competitor A,582553,238708,R1341174,Supermarket West,1,$26.90 
+2/23/2017,Competitor A,177017,240783,R1341285,Supermarket West,2,$72.00 
+2/23/2017,Competitor A,582553,250223,R1341383,Supermarket West,2,$53.80 
+2/23/2017,Competitor B,732190,268133,R1340859,Supermarket South-West,1,$55.90 
+2/23/2017,Competitor B,403498,268133,R1340859,Supermarket South-West,2,$111.80 
+2/23/2017,Competitor B,555673,376131,R1342341,Supermarket West,2,$86.00 
+2/23/2017,Competitor B,880952,376131,R1342341,Supermarket West,3,$129.00 
+2/23/2017,Competitor B,385150,415103,R1342867,Supermarket North-East,1,$32.00 
+2/23/2017,Competitor B,880952,461991,R1340966,Supermarket West,3,$129.00 
+2/23/2017,Competitor B,880952,461991,R1340966,Supermarket West,2,$86.00 
+2/23/2017,Competitor B,709381,461991,R1340966,Supermarket West,1,$43.00 
+2/23/2017,Competitor B,456255,470233,R1343032,Supermarket West,1,$59.90 
+2/23/2017,Competitor A,199788,475745,R1341450,Supermarket West,1,$30.90 
+2/23/2017,Competitor B,880952,489849,R1343172,Supermarket West,1,$43.00 
+2/23/2017,Competitor B,880952,492146,R1343262,Supermarket West,1,$43.00 
+2/23/2017,Competitor B,390602,494778,R1343356,Supermarket North-East,1,$32.00 
+2/23/2017,Competitor B,880952,501338,R1343446,Supermarket West,3,$129.00 
+2/23/2017,Competitor A,166761,504101,R1341533,Supermarket West,1,$30.90 
+2/23/2017,Competitor A,322245,504101,R1341533,Supermarket West,1,$30.90 
+2/23/2017,Competitor A,252579,505784,R1341692,Supermarket West,1,$42.90 
+2/23/2017,Competitor B,198485,510623,R1342456,Supermarket West,2,$22.80 
+2/23/2017,Competitor A,533718,510683,R1341768,Supermarket South-West,1,$25.90 
+2/23/2017,Competitor A,226997,510683,R1341768,Supermarket South-West,2,$35.90 
+2/23/2017,Competitor B,591094,510683,R1341768,Supermarket South-West,6,$21.50 
+2/23/2017,Competitor B,591094,510684,R1341849,Supermarket West,1,$6.00 
+2/23/2017,Competitor A,582553,510697,R1341979,Supermarket West,2,$53.80 
+2/24/2017,Competitor B,620967,4022,R1344967,Supermarket West,3,$179.70 
+2/24/2017,Competitor B,583164,4536,R1345040,Supermarket North-East,4,$59.80 
+2/24/2017,Colgate-Palmolive,762610,5160,R1343644,Supermarket West,1,$43.60 
+2/24/2017,Competitor B,583164,42533,R1345135,Supermarket South-West,2,$29.80 
+2/24/2017,Competitor A,297015,95122,R1343914,Supermarket West,1,$36.00 
+2/24/2017,Competitor A,297015,99367,R1344034,Supermarket West,2,$72.00 
+2/24/2017,Colgate-Palmolive,915953,133064,R1343786,Supermarket West,1,$60.00 
+2/24/2017,Competitor B,198485,133064,R1343786,Supermarket West,1,$11.40 
+2/24/2017,Competitor B,880952,216177,R1345238,Supermarket West,3,$129.00 
+2/24/2017,Competitor A,252579,247016,R1344125,Supermarket South-West,1,$43.90 
+2/24/2017,Competitor A,297015,247016,R1344125,Supermarket South-West,2,$71.80 
+2/24/2017,Competitor B,315236,249977,R1345425,Supermarket West,2,$67.40 
+2/24/2017,Competitor A,477783,250175,R1344216,Supermarket West,3,$92.70 
+2/24/2017,Competitor B,198485,250175,R1344216,Supermarket West,1,$11.40 
+2/24/2017,Competitor B,776126,371377,R1344713,Supermarket West,2,$119.80 
+2/24/2017,Competitor B,135594,452966,R1344861,Supermarket South,1,$9.20 
+2/24/2017,Competitor B,709381,489808,R1345516,Supermarket West,1,$43.00 
+2/24/2017,Competitor A,948610,489849,R1344395,Supermarket West,1,$42.90 
+2/24/2017,Competitor B,880952,491372,R1344429,Supermarket West,3,$126.00 
+2/24/2017,Competitor B,640845,493913,R1344574,Supermarket West,1,$39.80 
+2/24/2017,Colgate-Palmolive,348047,505195,R1343888,Supermarket North,1,$37.20 
+2/24/2017,Competitor B,419762,510308,R1345833,Supermarket North-East,5,$128.00 
+2/24/2017,Competitor B,583164,510790,R1345939,Supermarket North-East,5,$149.50 
+2/24/2017,Competitor B,709381,510791,R1346087,Supermarket West,1,$43.00 
+2/24/2017,Competitor B,537012,510838,R1346195,Supermarket West,2,$86.00 
+2/25/2017,Colgate-Palmolive,905356,93487,R1346259,Supermarket South,1,$43.90 
+2/25/2017,Competitor B,537012,97879,R1347347,Supermarket West,2,$84.00 
+2/25/2017,Competitor B,359784,97879,R1347347,Supermarket West,1,$39.80 
+2/25/2017,Colgate-Palmolive,300035,140833,R1346337,Supermarket West,2,$120.00 
+2/25/2017,Competitor A,812610,211936,R1346897,Supermarket South,1,$16.00 
+2/25/2017,Competitor B,385150,211936,R1346897,Supermarket South,1,$38.20 
+2/25/2017,Colgate-Palmolive,905356,233311,R1346414,Supermarket North,1,$35.80 
+2/25/2017,Competitor A,422570,416668,R1346995,Supermarket West,1,$37.60 
+2/25/2017,Competitor B,537012,467854,R1347552,Supermarket West,1,$42.00 
+2/25/2017,Competitor B,620967,470233,R1347658,Supermarket North,1,$71.50 
+2/25/2017,Colgate-Palmolive,926954,487131,R1346521,Supermarket East,1,$43.80 
+2/25/2017,Competitor B,198485,494818,R1347798,Supermarket North,1,$14.50 
+2/25/2017,Competitor A,249666,507006,R1347068,Supermarket West,1,$37.60 
+2/25/2017,Competitor A,297015,507006,R1347068,Supermarket West,2,$72.00 
+2/25/2017,Competitor A,422570,507540,R1347180,Supermarket South-West,1,$37.90 
+2/25/2017,Competitor A,665803,507540,R1347180,Supermarket South-West,1,$35.90 
+2/25/2017,Competitor B,555673,511053,R1347254,Supermarket West,1,$42.00 
+2/26/2017,Competitor A,847578,1942,R1348423,Supermarket West,1,$11.00 
+2/26/2017,Colgate-Palmolive,300035,11463,R1347816,Supermarket North,1,$52.30 
+2/26/2017,Competitor A,177017,38039,R1348513,Supermarket West,1,$36.00 
+2/26/2017,Competitor A,297015,72990,R1348631,Supermarket West,1,$36.00 
+2/26/2017,Colgate-Palmolive,209000,198843,R1347941,Supermarket South,1,$55.00 
+2/26/2017,Competitor B,139932,198843,R1347941,Supermarket South,1,$65.00 
+2/26/2017,Colgate-Palmolive,227633,224240,R1348023,Supermarket West,5,$218.00 
+2/26/2017,Competitor B,537012,224240,R1348023,Supermarket West,4,$168.00 
+2/26/2017,Competitor B,583164,244972,R1349277,Supermarket North-East,6,$179.40 
+2/26/2017,Colgate-Palmolive,227633,367596,R1348111,Supermarket West,1,$43.60 
+2/26/2017,Competitor B,904468,445251,R1348972,Supermarket North-West,2,$81.80 
+2/26/2017,Competitor B,620967,470233,R1349484,Supermarket West,1,$59.90 
+2/26/2017,Competitor B,620967,488558,R1349560,Supermarket West,1,$59.90 
+2/26/2017,Competitor B,537012,489808,R1349671,Supermarket West,2,$84.00 
+2/26/2017,Competitor B,709381,489808,R1349671,Supermarket West,1,$42.00 
+2/26/2017,Competitor A,909225,491486,R1348744,Supermarket West,1,$36.90 
+2/26/2017,Competitor B,315236,494778,R1349729,Supermarket South-West,4,$61.80 
+2/26/2017,Colgate-Palmolive,227633,503084,R1348294,Supermarket West,4,$43.60 
+2/26/2017,Competitor B,422968,504800,R1349874,Supermarket North-West,1,$35.50 
+2/26/2017,Colgate-Palmolive,905356,505127,R1348385,Supermarket West,2,$78.00 
+2/26/2017,Competitor B,555673,509423,R1349067,Supermarket West,3,$126.00 
+2/27/2017,Competitor B,849497,202180,R1350912,Supermarket West,1,$39.80 
+2/27/2017,Colgate-Palmolive,915953,205412,R1349950,Supermarket North,1,$51.70 
+2/27/2017,Colgate-Palmolive,762610,233422,R1350039,Supermarket North,2,$110.00 
+2/27/2017,Competitor B,855059,233422,R1350039,Supermarket North,1,$71.50 
+2/27/2017,Competitor B,732190,246394,R1350641,Supermarket West,2,$119.80 
+2/27/2017,Competitor B,720906,365618,R1350154,Supermarket North,2,$88.00 
+2/27/2017,Competitor B,135594,499559,R1350719,Supermarket South,1,$9.20 
+2/27/2017,Competitor A,177017,508524,R1350367,Supermarket West,1,$36.00 
+2/27/2017,Competitor A,948610,511095,R1350411,Supermarket West,3,$128.70 
+2/27/2017,Competitor B,709381,511378,R1351057,Supermarket West,3,$86.00 
+2/27/2017,Competitor A,252579,511413,R1350519,Supermarket West,2,$85.80 
+2/27/2017,Competitor B,855059,511561,R1350886,Supermarket West,1,$59.90 
+2/28/2017,Competitor A,252579,88035,R1351380,Supermarket South-West,1,$43.90 
+2/28/2017,Competitor A,948610,88035,R1351380,Supermarket South-West,1,$43.90 
+2/28/2017,Competitor A,297015,232757,R1351541,Supermarket West,3,$108.00 
+2/28/2017,Competitor B,880952,232757,R1351541,Supermarket West,2,$86.00 
+2/28/2017,Colgate-Palmolive,300035,482452,R1351139,Supermarket North,2,$104.60 
+2/28/2017,Competitor B,315236,488707,R1351865,Supermarket North,1,$37.00 
+2/28/2017,Competitor B,555673,494778,R1351741,Supermarket West,1,$43.00 
+2/28/2017,Competitor A,113733,504972,R1351662,Supermarket West,1,$26.90 
+2/28/2017,Colgate-Palmolive,863562,511805,R1351248,Supermarket North-East,1,$32.50 
+2/28/2017,Competitor B,796801,511805,R1351248,Supermarket North-East,2,$75.80 
